@@ -1,0 +1,76 @@
+{
+	"title": "German Index of Socioeconomic Deprivation (GISD)",
+	"description": "Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019.",
+	"upload_type": "dataset",
+	"access_right": "open",
+	"license": "cc-by",  
+	"language": "deu",
+	"publication_date": "2022-12-02T11:27:37.908Z",
+	"version": "2022-12-02",
+	"communities": [
+	{
+		"identifier":"robertkochinstitut"
+	}],
+	"creators": [
+	{
+		"name": "Michalski, Niels",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0002-5943-1361"
+	},
+	{
+		"name": "Reis, Marvin",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0003-4551-5203"
+	},
+	{
+		"name": "Tetzlaff, Fabian",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0001-6933-4162" 
+	},
+	{
+		"name": "Nowossadeck, Enno",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0002-8534-0463"
+	},	
+	{
+		"name": "Hoebel, Jens",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0002-6623-1579"
+	}],
+	"keywords": [
+		"Soziale Deprivation",
+		"Regionale Ungleichheit",
+		"Gesundheitliche Ungleichheit",
+		"Deprivationsindex",
+		"Sozioökomomische Ungleichheit",
+		"Soziale Determinanten",
+		"Sozial-Epidemiologie",
+		"Social Deprivation",
+		"Regional Inequality",
+		"Deprivation Index",
+		"Health Inequality",
+		"Social Determinants",
+		"Social Epidemiology",
+		"Health Geography",
+		"GISD", 
+		"INKAR",
+		"Germany",
+		"Deutschland",
+		"Public Health",
+		"RKI"
+	],
+	"subjects": [{
+			"term": "Gesundheitsberichterstattung",
+			"identifier": "info:ddc/22/de//614.42"
+		},
+		{
+			"term": "Public health surveillance",
+			"identifier": "info:ddc/22/eng//614.42"
+		}
+	],
+	"related_identifiers": [{
+		"relation": "isSupplementTo",
+		"identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
+		"resource_type": "dataset"
+	}]
+}
