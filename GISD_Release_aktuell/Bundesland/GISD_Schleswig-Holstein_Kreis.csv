@@ -1,0 +1,331 @@
+"gisd_score","kreis_id","kreis_name","year"
+0.888,"01001","Flensburg, Stadt",1998
+0.9569,"01001","Flensburg, Stadt",1999
+0.98065,"01001","Flensburg, Stadt",2000
+1,"01001","Flensburg, Stadt",2001
+1,"01001","Flensburg, Stadt",2002
+0.94023,"01001","Flensburg, Stadt",2003
+1,"01001","Flensburg, Stadt",2004
+1,"01001","Flensburg, Stadt",2005
+1,"01001","Flensburg, Stadt",2006
+1,"01001","Flensburg, Stadt",2007
+1,"01001","Flensburg, Stadt",2008
+1,"01001","Flensburg, Stadt",2009
+1,"01001","Flensburg, Stadt",2010
+0.94365,"01001","Flensburg, Stadt",2011
+0.91028,"01001","Flensburg, Stadt",2012
+0.92524,"01001","Flensburg, Stadt",2013
+0.96667,"01001","Flensburg, Stadt",2014
+0.96083,"01001","Flensburg, Stadt",2015
+0.91754,"01001","Flensburg, Stadt",2016
+0.9499,"01001","Flensburg, Stadt",2017
+0.86169,"01001","Flensburg, Stadt",2018
+0.8809,"01001","Flensburg, Stadt",2019
+0.63981,"01002","Kiel, Stadt",1998
+0.64321,"01002","Kiel, Stadt",1999
+0.72615,"01002","Kiel, Stadt",2000
+0.71296,"01002","Kiel, Stadt",2001
+0.62389,"01002","Kiel, Stadt",2002
+0.64918,"01002","Kiel, Stadt",2003
+0.66182,"01002","Kiel, Stadt",2004
+0.65301,"01002","Kiel, Stadt",2005
+0.69802,"01002","Kiel, Stadt",2006
+0.7153,"01002","Kiel, Stadt",2007
+0.67532,"01002","Kiel, Stadt",2008
+0.61253,"01002","Kiel, Stadt",2009
+0.62933,"01002","Kiel, Stadt",2010
+0.63075,"01002","Kiel, Stadt",2011
+0.61352,"01002","Kiel, Stadt",2012
+0.60103,"01002","Kiel, Stadt",2013
+0.62869,"01002","Kiel, Stadt",2014
+0.55275,"01002","Kiel, Stadt",2015
+0.5492,"01002","Kiel, Stadt",2016
+0.54565,"01002","Kiel, Stadt",2017
+0.51953,"01002","Kiel, Stadt",2018
+0.4967,"01002","Kiel, Stadt",2019
+0.77812,"01003","Lübeck, Stadt",1998
+0.82948,"01003","Lübeck, Stadt",1999
+0.97595,"01003","Lübeck, Stadt",2000
+0.96903,"01003","Lübeck, Stadt",2001
+0.89119,"01003","Lübeck, Stadt",2002
+0.86474,"01003","Lübeck, Stadt",2003
+0.81457,"01003","Lübeck, Stadt",2004
+0.85215,"01003","Lübeck, Stadt",2005
+0.81867,"01003","Lübeck, Stadt",2006
+0.8194,"01003","Lübeck, Stadt",2007
+0.81338,"01003","Lübeck, Stadt",2008
+0.76566,"01003","Lübeck, Stadt",2009
+0.78022,"01003","Lübeck, Stadt",2010
+0.8456,"01003","Lübeck, Stadt",2011
+0.87872,"01003","Lübeck, Stadt",2012
+0.78344,"01003","Lübeck, Stadt",2013
+0.89681,"01003","Lübeck, Stadt",2014
+0.76319,"01003","Lübeck, Stadt",2015
+0.69372,"01003","Lübeck, Stadt",2016
+0.74175,"01003","Lübeck, Stadt",2017
+0.66087,"01003","Lübeck, Stadt",2018
+0.65059,"01003","Lübeck, Stadt",2019
+1,"01004","Neumünster, Stadt",1998
+1,"01004","Neumünster, Stadt",1999
+1,"01004","Neumünster, Stadt",2000
+0.97832,"01004","Neumünster, Stadt",2001
+0.87622,"01004","Neumünster, Stadt",2002
+1,"01004","Neumünster, Stadt",2003
+0.9375,"01004","Neumünster, Stadt",2004
+0.85571,"01004","Neumünster, Stadt",2005
+0.87817,"01004","Neumünster, Stadt",2006
+0.88904,"01004","Neumünster, Stadt",2007
+0.98669,"01004","Neumünster, Stadt",2008
+0.90074,"01004","Neumünster, Stadt",2009
+0.94152,"01004","Neumünster, Stadt",2010
+1,"01004","Neumünster, Stadt",2011
+1,"01004","Neumünster, Stadt",2012
+1,"01004","Neumünster, Stadt",2013
+1,"01004","Neumünster, Stadt",2014
+1,"01004","Neumünster, Stadt",2015
+1,"01004","Neumünster, Stadt",2016
+1,"01004","Neumünster, Stadt",2017
+1,"01004","Neumünster, Stadt",2018
+1,"01004","Neumünster, Stadt",2019
+0.71261,"01051","Dithmarschen",1998
+0.78621,"01051","Dithmarschen",1999
+0.8862,"01051","Dithmarschen",2000
+0.93117,"01051","Dithmarschen",2001
+0.86459,"01051","Dithmarschen",2002
+0.8048,"01051","Dithmarschen",2003
+0.80527,"01051","Dithmarschen",2004
+0.80397,"01051","Dithmarschen",2005
+0.75141,"01051","Dithmarschen",2006
+0.76074,"01051","Dithmarschen",2007
+0.77496,"01051","Dithmarschen",2008
+0.76516,"01051","Dithmarschen",2009
+0.75171,"01051","Dithmarschen",2010
+0.79936,"01051","Dithmarschen",2011
+0.8826,"01051","Dithmarschen",2012
+0.77769,"01051","Dithmarschen",2013
+0.87485,"01051","Dithmarschen",2014
+0.80512,"01051","Dithmarschen",2015
+0.7806,"01051","Dithmarschen",2016
+0.74092,"01051","Dithmarschen",2017
+0.69907,"01051","Dithmarschen",2018
+0.68127,"01051","Dithmarschen",2019
+0.35318,"01053","Herzogtum Lauenburg",1998
+0.45452,"01053","Herzogtum Lauenburg",1999
+0.52649,"01053","Herzogtum Lauenburg",2000
+0.53026,"01053","Herzogtum Lauenburg",2001
+0.51278,"01053","Herzogtum Lauenburg",2002
+0.5221,"01053","Herzogtum Lauenburg",2003
+0.45872,"01053","Herzogtum Lauenburg",2004
+0.43746,"01053","Herzogtum Lauenburg",2005
+0.45497,"01053","Herzogtum Lauenburg",2006
+0.44011,"01053","Herzogtum Lauenburg",2007
+0.45064,"01053","Herzogtum Lauenburg",2008
+0.40506,"01053","Herzogtum Lauenburg",2009
+0.42746,"01053","Herzogtum Lauenburg",2010
+0.40802,"01053","Herzogtum Lauenburg",2011
+0.43445,"01053","Herzogtum Lauenburg",2012
+0.45108,"01053","Herzogtum Lauenburg",2013
+0.4312,"01053","Herzogtum Lauenburg",2014
+0.43637,"01053","Herzogtum Lauenburg",2015
+0.41647,"01053","Herzogtum Lauenburg",2016
+0.39305,"01053","Herzogtum Lauenburg",2017
+0.41693,"01053","Herzogtum Lauenburg",2018
+0.37062,"01053","Herzogtum Lauenburg",2019
+0.4962,"01054","Nordfriesland",1998
+0.53901,"01054","Nordfriesland",1999
+0.71647,"01054","Nordfriesland",2000
+0.74221,"01054","Nordfriesland",2001
+0.64456,"01054","Nordfriesland",2002
+0.62837,"01054","Nordfriesland",2003
+0.68731,"01054","Nordfriesland",2004
+0.61496,"01054","Nordfriesland",2005
+0.59769,"01054","Nordfriesland",2006
+0.63531,"01054","Nordfriesland",2007
+0.6239,"01054","Nordfriesland",2008
+0.58375,"01054","Nordfriesland",2009
+0.58548,"01054","Nordfriesland",2010
+0.59427,"01054","Nordfriesland",2011
+0.60316,"01054","Nordfriesland",2012
+0.55024,"01054","Nordfriesland",2013
+0.56704,"01054","Nordfriesland",2014
+0.53334,"01054","Nordfriesland",2015
+0.55288,"01054","Nordfriesland",2016
+0.52886,"01054","Nordfriesland",2017
+0.53944,"01054","Nordfriesland",2018
+0.51305,"01054","Nordfriesland",2019
+0.57796,"01055","Ostholstein",1998
+0.66123,"01055","Ostholstein",1999
+0.80297,"01055","Ostholstein",2000
+0.80753,"01055","Ostholstein",2001
+0.767,"01055","Ostholstein",2002
+0.73016,"01055","Ostholstein",2003
+0.70605,"01055","Ostholstein",2004
+0.67291,"01055","Ostholstein",2005
+0.69063,"01055","Ostholstein",2006
+0.66815,"01055","Ostholstein",2007
+0.67573,"01055","Ostholstein",2008
+0.63927,"01055","Ostholstein",2009
+0.61578,"01055","Ostholstein",2010
+0.6206,"01055","Ostholstein",2011
+0.67065,"01055","Ostholstein",2012
+0.63154,"01055","Ostholstein",2013
+0.64778,"01055","Ostholstein",2014
+0.64193,"01055","Ostholstein",2015
+0.63907,"01055","Ostholstein",2016
+0.57594,"01055","Ostholstein",2017
+0.58121,"01055","Ostholstein",2018
+0.56036,"01055","Ostholstein",2019
+0.18281,"01056","Pinneberg",1998
+0.21647,"01056","Pinneberg",1999
+0.30724,"01056","Pinneberg",2000
+0.31818,"01056","Pinneberg",2001
+0.25209,"01056","Pinneberg",2002
+0.28651,"01056","Pinneberg",2003
+0.21637,"01056","Pinneberg",2004
+0.26163,"01056","Pinneberg",2005
+0.21331,"01056","Pinneberg",2006
+0.25752,"01056","Pinneberg",2007
+0.20827,"01056","Pinneberg",2008
+0.18513,"01056","Pinneberg",2009
+0.18765,"01056","Pinneberg",2010
+0.19403,"01056","Pinneberg",2011
+0.18632,"01056","Pinneberg",2012
+0.20599,"01056","Pinneberg",2013
+0.18678,"01056","Pinneberg",2014
+0.20267,"01056","Pinneberg",2015
+0.21298,"01056","Pinneberg",2016
+0.24747,"01056","Pinneberg",2017
+0.21473,"01056","Pinneberg",2018
+0.24098,"01056","Pinneberg",2019
+0.50879,"01057","Plön",1998
+0.5424,"01057","Plön",1999
+0.7097,"01057","Plön",2000
+0.66838,"01057","Plön",2001
+0.64001,"01057","Plön",2002
+0.6546,"01057","Plön",2003
+0.62563,"01057","Plön",2004
+0.62378,"01057","Plön",2005
+0.60922,"01057","Plön",2006
+0.58551,"01057","Plön",2007
+0.56324,"01057","Plön",2008
+0.53988,"01057","Plön",2009
+0.50279,"01057","Plön",2010
+0.49904,"01057","Plön",2011
+0.49481,"01057","Plön",2012
+0.49235,"01057","Plön",2013
+0.51395,"01057","Plön",2014
+0.53,"01057","Plön",2015
+0.5251,"01057","Plön",2016
+0.51245,"01057","Plön",2017
+0.48181,"01057","Plön",2018
+0.44157,"01057","Plön",2019
+0.44134,"01058","Rendsburg-Eckernförde",1998
+0.46758,"01058","Rendsburg-Eckernförde",1999
+0.55977,"01058","Rendsburg-Eckernförde",2000
+0.54076,"01058","Rendsburg-Eckernförde",2001
+0.52402,"01058","Rendsburg-Eckernförde",2002
+0.53985,"01058","Rendsburg-Eckernförde",2003
+0.49468,"01058","Rendsburg-Eckernförde",2004
+0.45719,"01058","Rendsburg-Eckernförde",2005
+0.41908,"01058","Rendsburg-Eckernförde",2006
+0.42671,"01058","Rendsburg-Eckernförde",2007
+0.4389,"01058","Rendsburg-Eckernförde",2008
+0.4454,"01058","Rendsburg-Eckernförde",2009
+0.43588,"01058","Rendsburg-Eckernförde",2010
+0.40248,"01058","Rendsburg-Eckernförde",2011
+0.43126,"01058","Rendsburg-Eckernförde",2012
+0.42508,"01058","Rendsburg-Eckernförde",2013
+0.39282,"01058","Rendsburg-Eckernförde",2014
+0.40515,"01058","Rendsburg-Eckernförde",2015
+0.39318,"01058","Rendsburg-Eckernförde",2016
+0.39955,"01058","Rendsburg-Eckernförde",2017
+0.37992,"01058","Rendsburg-Eckernförde",2018
+0.39222,"01058","Rendsburg-Eckernförde",2019
+0.61013,"01059","Schleswig-Flensburg",1998
+0.69323,"01059","Schleswig-Flensburg",1999
+0.80358,"01059","Schleswig-Flensburg",2000
+0.82838,"01059","Schleswig-Flensburg",2001
+0.76804,"01059","Schleswig-Flensburg",2002
+0.78401,"01059","Schleswig-Flensburg",2003
+0.73805,"01059","Schleswig-Flensburg",2004
+0.72717,"01059","Schleswig-Flensburg",2005
+0.67085,"01059","Schleswig-Flensburg",2006
+0.77891,"01059","Schleswig-Flensburg",2007
+0.79432,"01059","Schleswig-Flensburg",2008
+0.75083,"01059","Schleswig-Flensburg",2009
+0.76656,"01059","Schleswig-Flensburg",2010
+0.70337,"01059","Schleswig-Flensburg",2011
+0.79559,"01059","Schleswig-Flensburg",2012
+0.7349,"01059","Schleswig-Flensburg",2013
+0.79163,"01059","Schleswig-Flensburg",2014
+0.71099,"01059","Schleswig-Flensburg",2015
+0.70472,"01059","Schleswig-Flensburg",2016
+0.69947,"01059","Schleswig-Flensburg",2017
+0.70077,"01059","Schleswig-Flensburg",2018
+0.61662,"01059","Schleswig-Flensburg",2019
+0.34463,"01060","Segeberg",1998
+0.31014,"01060","Segeberg",1999
+0.39927,"01060","Segeberg",2000
+0.43762,"01060","Segeberg",2001
+0.3857,"01060","Segeberg",2002
+0.38082,"01060","Segeberg",2003
+0.37064,"01060","Segeberg",2004
+0.3554,"01060","Segeberg",2005
+0.33155,"01060","Segeberg",2006
+0.31951,"01060","Segeberg",2007
+0.28662,"01060","Segeberg",2008
+0.26844,"01060","Segeberg",2009
+0.2825,"01060","Segeberg",2010
+0.29837,"01060","Segeberg",2011
+0.3393,"01060","Segeberg",2012
+0.3369,"01060","Segeberg",2013
+0.30938,"01060","Segeberg",2014
+0.31282,"01060","Segeberg",2015
+0.31028,"01060","Segeberg",2016
+0.31607,"01060","Segeberg",2017
+0.30108,"01060","Segeberg",2018
+0.32429,"01060","Segeberg",2019
+0.55264,"01061","Steinburg",1998
+0.65049,"01061","Steinburg",1999
+0.73668,"01061","Steinburg",2000
+0.7026,"01061","Steinburg",2001
+0.69231,"01061","Steinburg",2002
+0.67262,"01061","Steinburg",2003
+0.72503,"01061","Steinburg",2004
+0.59875,"01061","Steinburg",2005
+0.58174,"01061","Steinburg",2006
+0.53895,"01061","Steinburg",2007
+0.58777,"01061","Steinburg",2008
+0.56736,"01061","Steinburg",2009
+0.59891,"01061","Steinburg",2010
+0.60016,"01061","Steinburg",2011
+0.66045,"01061","Steinburg",2012
+0.56884,"01061","Steinburg",2013
+0.66247,"01061","Steinburg",2014
+0.62025,"01061","Steinburg",2015
+0.64943,"01061","Steinburg",2016
+0.63441,"01061","Steinburg",2017
+0.60617,"01061","Steinburg",2018
+0.59323,"01061","Steinburg",2019
+0,"01062","Stormarn",1998
+0,"01062","Stormarn",1999
+0,"01062","Stormarn",2000
+0,"01062","Stormarn",2001
+0,"01062","Stormarn",2002
+0,"01062","Stormarn",2003
+0,"01062","Stormarn",2004
+0,"01062","Stormarn",2005
+0,"01062","Stormarn",2006
+0,"01062","Stormarn",2007
+0,"01062","Stormarn",2008
+0,"01062","Stormarn",2009
+0,"01062","Stormarn",2010
+0,"01062","Stormarn",2011
+0,"01062","Stormarn",2012
+0,"01062","Stormarn",2013
+0,"01062","Stormarn",2014
+0,"01062","Stormarn",2015
+0,"01062","Stormarn",2016
+0,"01062","Stormarn",2017
+0,"01062","Stormarn",2018
+0,"01062","Stormarn",2019
