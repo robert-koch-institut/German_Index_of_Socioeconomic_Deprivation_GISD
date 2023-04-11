@@ -6,7 +6,7 @@
       "content_blobs": [
         {
           "content_type": "text/html",
-          "url": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_(GISD)",
+          "url": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
           "original_filename": "Github Link"
         }
       ],
@@ -19,7 +19,7 @@
             "title_language": "DE (German)"
           }
         ],
-        "resource_acronyms": [],
+        "resource_acronyms": ["GISD"],
         "resource_descriptions": [
           {
             "description": "Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019.",
@@ -112,14 +112,14 @@
         "resource_language": [
           "DE (German)"
         ],
-        "resource_version": "2023-03-07",
+        "resource_version": "2022-12-02",
         "resource_web_page": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/",
         "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
         "resource_use_rights_description": "",
-        "resource_use_rights_authors_confirmation_1": false,
-        "resource_use_rights_authors_confirmation_2": false,
-        "resource_use_rights_authors_confirmation_3": false,
-        "resource_use_rights_support_by_licencing": false,
+        "resource_use_rights_authors_confirmation_1": true,
+        "resource_use_rights_authors_confirmation_2": true,
+        "resource_use_rights_authors_confirmation_3": true,
+        "resource_use_rights_support_by_licencing": true,
         "provenance": {
           "data_source": ""
         },
@@ -128,15 +128,9 @@
             "role_type": "Creator/Author",
             "role_email": "MichalskiN@rki.de",
             "role_phone": "",
-            "role_affiliation_name": "Robert Koch Institute",
-            "role_affiliation_address": "Nordufer 20, 13353 Berlin",
-            "role_affiliation_web_page": "https://www.rki.de",
-            "role_affiliation_identifiers": [
-              {
-                "role_affiliation_identifier": "01k5qnb77",
-                "role_affiliation_identifier_scheme": "ROR"
-              }
-            ],
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
             "role_name_type": "Personal",
             "role_name_personal_title": "Other",
             "role_name_personal_given_name": "Niels",
@@ -152,15 +146,9 @@
             "role_type": "Creator/Author",
             "role_email": "ReisM@rki.de",
             "role_phone": "",
-            "role_affiliation_name": "Robert Koch Institute",
-            "role_affiliation_address": "Nordufer 20, 13353 Berlin",
-            "role_affiliation_web_page": "https://www.rki.de",
-            "role_affiliation_identifiers": [
-              {
-                "role_affiliation_identifier": "01k5qnb77",
-                "role_affiliation_identifier_scheme": "ROR"
-              }
-            ],
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
             "role_name_type": "Personal",
             "role_name_personal_title": "Other",
             "role_name_personal_given_name": "Marvin",
@@ -176,15 +164,9 @@
             "role_type": "Creator/Author",
             "role_email": "TetzlaffF@rki.de",
             "role_phone": "",
-            "role_affiliation_name": "Robert Koch Institute",
-            "role_affiliation_address": "Nordufer 20, 13353 Berlin",
-            "role_affiliation_web_page": "https://www.rki.de",
-            "role_affiliation_identifiers": [
-              {
-                "role_affiliation_identifier": "01k5qnb77",
-                "role_affiliation_identifier_scheme": "ROR"
-              }
-            ],
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
             "role_name_type": "Personal",
             "role_name_personal_title": "Other",
             "role_name_personal_given_name": "Fabian",
@@ -200,15 +182,9 @@
             "role_type": "Creator/Author",
             "role_email": "NowossadeckE@rki.de",
             "role_phone": "",
-            "role_affiliation_name": "Robert Koch Institute",
-            "role_affiliation_address": "Nordufer 20, 13353 Berlin",
-            "role_affiliation_web_page": "https://www.rki.de",
-            "role_affiliation_identifiers": [
-              {
-                "role_affiliation_identifier": "01k5qnb77",
-                "role_affiliation_identifier_scheme": "ROR"
-              }
-            ],
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
             "role_name_type": "Personal",
             "role_name_personal_title": "Other",
             "role_name_personal_given_name": "Enno",
@@ -224,15 +200,9 @@
             "role_type": "Creator/Author",
             "role_email": "HoebelJ@rki.de",
             "role_phone": "",
-            "role_affiliation_name": "Robert Koch Institute",
-            "role_affiliation_address": "Nordufer 20, 13353 Berlin",
-            "role_affiliation_web_page": "https://www.rki.de",
-            "role_affiliation_identifiers": [
-              {
-                "role_affiliation_identifier": "01k5qnb77",
-                "role_affiliation_identifier_scheme": "ROR"
-              }
-            ],
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
             "role_name_type": "Personal",
             "role_name_personal_title": "Other",
             "role_name_personal_given_name": "Jens",
@@ -247,7 +217,7 @@
         ],
         "ids": [
           {
-            "id_identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_(GISD)",
+            "id_identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
             "id_date": "",
             "id_type": "URL",
             "id_relation_type": "describes",
