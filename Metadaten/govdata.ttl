@@ -63,6 +63,6 @@
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-                    dcat:accessURL <https://zenodo.org/record/6840304/files/%5BDokumentation%5D_German_Index_of_Socioeconomic_Deprivation_GISD.pdf>
+                    dcat:accessURL <https://zenodo.org/record/6840304/files/%5BDokumentation%5D_German_Index_of_Socioeconomic_Deprivation_GISD.pdf>;
                     dct:modified "2022-12-02T16:11:37+02:00"^^xsd:dateTime;
                   ].
