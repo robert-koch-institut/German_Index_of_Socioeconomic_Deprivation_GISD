@@ -6,7 +6,7 @@
               @prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
               @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-              <10.5281/zenodo.6840304> a dcat:Dataset ;
+              <https://zenodo.org/record/6840304> a dcat:Dataset ;
                   dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
                   dcatde:contributor [ a foaf:Person; foaf:name "Niels Michalski"; foaf:account <http://orcid.org/0000-0002-5943-1361>; ],[ a foaf:Person; foaf:name "Marvin Reis"; foaf:account <http://orcid.org/0000-0003-4551-5203>; ],[ a foaf:Person; foaf:name "Fabian Tetzlaff"; foaf:account <http://orcid.org/0000-0001-6933-4162>; ],[ a foaf:Person; foaf:name "Enno Nowossadeck"; foaf:account <http://orcid.org/0000-0002-8534-046>; ],[ a foaf:Person; foaf:name "Jens Hoebel"; foaf:account <http://orcid.org/0000-0002-6623-1579>; ];
@@ -51,7 +51,7 @@
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - German Index of Socioeconomic Deprivation (GISD)" ;
-                    dcat:accessURL <https://doi.org/10.5281/zenodo.6840304>;
+                    dcat:accessURL <https://zenodo.org/record/6840304>;
                     dct:modified "2022-12-02T16:11:37+02:00"^^xsd:dateTime;
                   ],
                   [
