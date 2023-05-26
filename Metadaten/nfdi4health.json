@@ -19,7 +19,7 @@
             "title_language": "DE (German)"
           }
         ],
-        "resource_acronyms": ["GISD"],
+        "resource_acronyms": [],
         "resource_descriptions": [
           {
             "description": "Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019.",
@@ -107,13 +107,21 @@
           {
             "resource_keywords_label": "RKI",
             "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Gesundheitsberichterstattung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Public health surveillance",
+            "resource_keywords_label_code": ""
           }
         ],
         "resource_language": [
           "DE (German)"
         ],
-        "resource_version": "2022-12-02",
-        "resource_web_page": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/",
+        "resource_version": "2023-05-26",
+        "resource_web_page": "https://",
         "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
         "resource_use_rights_description": "",
         "resource_use_rights_authors_confirmation_1": true,
@@ -126,7 +134,7 @@
         "roles": [
           {
             "role_type": "Creator/Author",
-            "role_email": "MichalskiN@rki.de",
+            "role_email": "",
             "role_phone": "",
             "role_affiliation_address": "",
             "role_affiliation_web_page": "",
@@ -144,7 +152,7 @@
           },
           {
             "role_type": "Creator/Author",
-            "role_email": "ReisM@rki.de",
+            "role_email": "",
             "role_phone": "",
             "role_affiliation_address": "",
             "role_affiliation_web_page": "",
@@ -162,7 +170,7 @@
           },
           {
             "role_type": "Creator/Author",
-            "role_email": "TetzlaffF@rki.de",
+            "role_email": "",
             "role_phone": "",
             "role_affiliation_address": "",
             "role_affiliation_web_page": "",
@@ -180,7 +188,7 @@
           },
           {
             "role_type": "Creator/Author",
-            "role_email": "NowossadeckE@rki.de",
+            "role_email": "",
             "role_phone": "",
             "role_affiliation_address": "",
             "role_affiliation_web_page": "",
@@ -191,14 +199,14 @@
             "role_name_personal_family_name": "Nowossadeck",
             "role_name_identifiers": [
               {
-                "role_name_identifier": "0000-0002-8534-046",
+                "role_name_identifier": "0000-0002-8534-0463",
                 "role_name_identifier_scheme": "ORCID"
               }
             ]
           },
           {
             "role_type": "Creator/Author",
-            "role_email": "HoebelJ@rki.de",
+            "role_email": "",
             "role_phone": "",
             "role_affiliation_address": "",
             "role_affiliation_web_page": "",
@@ -224,7 +232,7 @@
             "id_resource_type_general": "Dataset"
           },
           {
-            "id_identifier": "10.5281/zenodo.6840304",
+            "id_identifier": "10.5281/zenodo.7973846",
             "id_date": "",
             "id_type": "DOI",
             "id_relation_type": "has part",

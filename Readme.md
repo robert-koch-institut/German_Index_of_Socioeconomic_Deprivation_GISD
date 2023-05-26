@@ -13,7 +13,7 @@ FG 28 | Soziale Determinanten der Gesundheit
 ---
 **Zitieren**  
 
-Michalski, Niels; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2022): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.6840304](https://doi.org/10.5281/zenodo.6840304)
+Michalski, Niels; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2022): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.7973846](https://doi.org/10.5281/zenodo.7973846)
 
 
 ## Informationen zum Forschungskontext

@@ -20,7 +20,7 @@
     {
       "name": "Nowossadeck, Enno",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-8534-046"
+      "orcid": "0000-0002-8534-0463"
     },
     {
       "name": "Hoebel, Jens",
@@ -51,8 +51,8 @@
     "Public Health",
     "RKI"
   ],
-  "publication_date": "2022-12-02",
-  "version": "2022-12-02",
+  "publication_date": "2023-05-26",
+  "version": "2023-05-26",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -62,7 +62,16 @@
       "identifier": "robertkochinstitut"
     }
   ],
-  "subjects": [],
+  "subjects": [
+    {
+      "term": "Gesundheitsberichterstattung",
+      "identifier": "info:ddc/22/de//614.42"
+    },
+    {
+      "term": "Public health surveillance",
+      "identifier": "info:ddc/22/eng//614.42"
+    }
+  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
@@ -78,11 +87,6 @@
       "relation": "isDocumentedBy",
       "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/[Dokumentation]_German_Index_of_Socioeconomic_Deprivation_GISD.pdf",
       "resource_type": "publication-report"
-    },
-    {
-      "relation": "isDescribedBy",
-      "identifier": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/",
-      "resource_type": "other"
     }
   ]
 }
