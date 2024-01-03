@@ -13,7 +13,7 @@ FG 28 | Soziale Determinanten der Gesundheit
 ---
 **Zitieren**  
 
-Michalski, Niels; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2022): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.7973846](https://doi.org/10.5281/zenodo.7973846)
+Michalski, Niels; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.10454408](https://doi.org/10.5281/zenodo.10454408)
 
 
 ## Informationen zum Forschungskontext
@@ -127,7 +127,7 @@ Im zweiten Schritt wurden Werte (Scores) für die Teildimensionen mit Hilfe des 
 
 ## Datenbereitstellung
 
-Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht dem [GISD Release 2022 v0.3](Archiv/GISD_Release_2022_v0.3.zip) des [Archivs](Archiv/).
+Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht dem [GISD Release 2022 v1.1](Archiv/GISD_Release_2022_v1.1.zip) des [Archivs](Archiv/).
 
 > [GISD_Release_aktuell/Bund](GISD_Release_aktuell/Bund/)  
 > [GISD_Release_aktuell/Bundesland](GISD_Release_aktuell/Bundesland/)  
@@ -137,7 +137,7 @@ Die Dateiname sind nach dem Schema `GISD_Bezugsrahmen_Raumabgrenzung.csv` bezeic
 
 Beispiel: Die Datei `GISD_Sachsen_Gemeinde.csv` enhält die Daten des GISD auf Gemeindeebene mit dem Bezugsrahmen Sachsen. 
 
-### Variablen
+### Variablen und Variablenausprägungen
 
 Die Datensätze enthalten folgende Merkmale:
 
@@ -147,9 +147,6 @@ Die Datensätze enthalten folgende Merkmale:
 * GISD-Perzentil für den jeweiligen Bezugsrahmen
 * GISD-Kategorien
 * Beobachtungsjahr
-
-### Variablenausprägungen
-
 
 Die GISD-Daten enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
@@ -174,7 +171,20 @@ Die Daten sind im Datensatz als kommaseparierte `.csv`-Datei enthalten. Der verw
 
 Zusätzlich wurden die Daten im Format `.dta` des Softwarepakets Stata v17 bereitgestellt.
 
-### Kontextmaterialien
+### Updates und Bugfixes
+
+Ergänzung in der Version vom 26.5.2023: 
+
+* Dem Archiv wurde die Version GISD_Release_2022_v0.1 hinzugefügt
+
+Ergänzung & Bugfix in der Version vom 03.01.2024:
+
+* Dem Archiv wurde die Version GISD_Release_2022_v1.1 hinzugefügt
+	* Bei der Generierung der GISD-Scores für die Postleitzahlebene blieben Postleitzahlen aus dem Kreis Göttingen unberücksichtigt. Die fehlenden Werte wurden eingefügt.
+* Die [Syntax](Kontextmaterialien/Syntax/) zur Replikation der GISD Generierung wurde überarbeitet
+* Die [Rohdaten](Kontextmaterialien/Rohdaten/) sind nun vollständig verfügbar. In den früheren Versionen waren die Zeitreihen der Rohdaten für die Indikatoren Beschäftigte ohne Abschluss und Beschäftigte mit akademischem Abschluss wegen unklarer Berechtigung der Weitergabe der Daten nicht vollständig. 
+
+### Kontextmaterialien  
 
 Zusätzlich werden die Rohdaten aus der INKAR-Datenbank und die Syntax zur Generierung des GISD als Kontexmaterialien zur Verfügung gestellt. 
 
@@ -187,25 +197,36 @@ Im Repositorium werden außerdem frühere Versionen (Releases) für Replikations
 
 ### Metadaten
 
-Die bereitgestellten Daten sind mit Metadaten beschrieben und wissenschaftlich zitierbar, u.a. durch die Vergabe einer DOI durch Zenodo.org. Die für den Import in Zenodo bereitgestellten Metadaten sind in folgender Datei hinterlegt:  
+Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadaten-Ordner hinterlegt:
 
-> [Metadaten/zenodo.json](Metadaten/zenodo.json)  
+> [Metadaten/](/Metadaten/) 
 
-Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](http://Zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
 
-## Hinweise zur Nutzung der Daten
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json)  
 
-Die GISD-Daten können über die amtlichen Gemeindeschlüssel (AGS) für die jeweilige Ebene (Gemeinde, Gemeindeverbände(GVB), Kreise, für Raumordnungsgegionen oder NUTS-2) an Daten angespielt werden, die diese Information enthalten. Zudem werden die GISD-Daten auch für Postleitzahlbereichen (PLZ) in unterschiedlicher Auflösung bereitgestellt (PLZ-5-Steller, PLZ-4-Steller, PLZ-3-Steller, PLZ-2-Steller). Die GISD-Daten aller Jahre sind jeweils auf den Gebietsstand des 31.12. des aktuellsten Jahres harmonisiert. Gegebenenfalls müssen die anzuspielenden Daten zunächst auf diesen Gebietsstand gebracht werden.  
+In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch der Datenstand enthalten:
+```
+  "dates": [
+    {
+      "start": "2023-09-11T15:00:21+02:00",
+      "end": "2023-09-11T15:00:21+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+```    
 
-Die Daten des GISD werden wenn möglich jährlich aktualisiert. Der Zeitpunkt der Aktualisierung richtet sich nach der Veröffentlichung der verwendeten Rohdaten in der INKAR-Datenbank.  
+## Hinweise zur Nachnutzung der Daten  
 
-Offene Forschungsdaten des RKI werden auf GitHub.com sowie Zenodo.org bereitgestellt:  
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
 
-* https://github.com/robert-koch-institut  
-* https://zenodo.org/communities/robertkochinstitut   
-
+- https://zenodo.org/communities/robertkochinstitut
+- https://github.com/robert-koch-institut
+- https://gitlab.opencode.de/robert-koch-institut
+- https://edoc.rki.de/
 ### Lizenz  
 
-Der Datensatz "German Index of Socioeconomic Deprivation" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de)  
+Der Datensatz "SARS-CoV-2-Sequenzdaten aus Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede:r hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](/LICENSE) bzw. [LIZENZ](/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LIZENZ) Datei des Datensatzes..  

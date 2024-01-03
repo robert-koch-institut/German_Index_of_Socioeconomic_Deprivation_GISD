@@ -20,7 +20,7 @@ abstract: >-
   Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die
   aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und
   enthalten Werte von 1998 bis 2019.
-date-released: '2023-05-26'
+date-released: '2024-01-03'
 keywords:
   - Soziale Deprivation
   - Regionale Ungleichheit
@@ -45,14 +45,19 @@ keywords:
   - Gesundheitsberichterstattung
   - Public health surveillance
 message: Cite me!
-url: ''
+url: >-
+  https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.7973846
+doi: 10.5281/zenodo.10454408
+version: '2024-01-03T13:55:07+01:00'
 authors:
   - family-names: Michalski
     given-names: Niels
     affiliation: Robert Koch-Institut
     orcid: 0000-0002-5943-1361
+  - family-names: Soliman
+    given-names: Omar
+    affiliation: Robert Koch-Institut
   - family-names: Reis
     given-names: Marvin
     affiliation: Robert Koch-Institut
