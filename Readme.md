@@ -13,7 +13,7 @@ FG 28 | Soziale Determinanten der Gesundheit
 ---
 **Zitieren**  
 
-Michalski, Niels; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.10454408](https://doi.org/10.5281/zenodo.10454408)
+Michalski, Niels; Soliman, Omar; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.10457601](https://doi.org/10.5281/zenodo.10457601)
 
 
 ## Informationen zum Forschungskontext
@@ -30,7 +30,6 @@ Die englische Version ist verfügbar unter:
 Die Begleitpublikation zur früheren Version des GISD findet sich hier:
 
 > Kroll LE, Schumann M, Hoebel J et al. (2017) Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland. J Health Monit 2(2):103-120 [DOI: 10.25646/2573.2](http://dx.doi.org/10.25646/2573.2)
-
 
 
 ### Administrative und organisatorische Angaben
@@ -129,8 +128,8 @@ Im zweiten Schritt wurden Werte (Scores) für die Teildimensionen mit Hilfe des 
 
 Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht dem [GISD Release 2022 v1.1](Archiv/GISD_Release_2022_v1.1.zip) des [Archivs](Archiv/).
 
-> [GISD_Release_aktuell/Bund](GISD_Release_aktuell/Bund/)  
-> [GISD_Release_aktuell/Bundesland](GISD_Release_aktuell/Bundesland/)  
+> [GISD_Release_aktuell/Bund](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bund/)  
+> [GISD_Release_aktuell/Bundesland](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bundesland/)  
 
 
 Die Dateiname sind nach dem Schema `GISD_Bezugsrahmen_Raumabgrenzung.csv` bezeichnet. Die Sequenz "Bezugsrahmen" repräsentiert ob als Bezugsrahmen die Bundesebene "Bund" oder ein bestimmtes Bundesland "Name des Bundeslandes" ausgewählt werden soll. Die Sequenz "Raumabgrenzung" markiert die "regionale Ebene" auf der der GISD verwendet werden soll.  
@@ -171,25 +170,12 @@ Die Daten sind im Datensatz als kommaseparierte `.csv`-Datei enthalten. Der verw
 
 Zusätzlich wurden die Daten im Format `.dta` des Softwarepakets Stata v17 bereitgestellt.
 
-### Updates und Bugfixes
-
-Ergänzung in der Version vom 26.5.2023: 
-
-* Dem Archiv wurde die Version GISD_Release_2022_v0.1 hinzugefügt
-
-Ergänzung & Bugfix in der Version vom 03.01.2024:
-
-* Dem Archiv wurde die Version GISD_Release_2022_v1.1 hinzugefügt
-	* Bei der Generierung der GISD-Scores für die Postleitzahlebene blieben Postleitzahlen aus dem Kreis Göttingen unberücksichtigt. Die fehlenden Werte wurden eingefügt.
-* Die [Syntax](Kontextmaterialien/Syntax/) zur Replikation der GISD Generierung wurde überarbeitet
-* Die [Rohdaten](Kontextmaterialien/Rohdaten/) sind nun vollständig verfügbar. In den früheren Versionen waren die Zeitreihen der Rohdaten für die Indikatoren Beschäftigte ohne Abschluss und Beschäftigte mit akademischem Abschluss wegen unklarer Berechtigung der Weitergabe der Daten nicht vollständig. 
-
 ### Kontextmaterialien  
 
 Zusätzlich werden die Rohdaten aus der INKAR-Datenbank und die Syntax zur Generierung des GISD als Kontexmaterialien zur Verfügung gestellt. 
 
-> [Kontextmaterialien/Rohdaten](Kontextmaterialien/Rohdaten/)    
-> [Kontextmaterialien/Syntax/](Kontextmaterialien/Syntax/GISD_Generate_Release.R)  
+> [Kontextmaterialien/Rohdaten](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Rohdaten/)    
+> [Kontextmaterialien/Syntax/](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Syntax/GISD_Generate_Release.R)  
 
 Im Repositorium werden außerdem frühere Versionen (Releases) für Replikationszwecke zum Download angeboten. 
 
@@ -215,7 +201,20 @@ In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch d
       "description": "Date when the Dataset was created"
     }
   ],
-```    
+``` 
+
+## Updates und Bugfixes
+
+Ergänzung in der Version vom 26.5.2023: 
+
+* Dem Archiv wurde die Version GISD_Release_2022_v0.1 hinzugefügt
+
+Ergänzung & Bugfix in der Version vom 03.01.2024:
+
+* Dem Archiv wurde die Version GISD_Release_2022_v1.1 hinzugefügt
+	* Bei der Generierung der GISD-Scores für die Postleitzahlebene blieben Postleitzahlen aus dem Kreis Göttingen unberücksichtigt. Die fehlenden Werte wurden eingefügt.
+* Die [Syntax](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Syntax/GISD_Generate_Release.R) zur Replikation der GISD Generierung wurde überarbeitet
+* Die [Rohdaten](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Rohdaten/) sind nun vollständig verfügbar. In den früheren Versionen waren die Zeitreihen der Rohdaten für die Indikatoren Beschäftigte ohne Abschluss und Beschäftigte mit akademischem Abschluss wegen unklarer Berechtigung der Weitergabe der Daten nicht vollständig.    
 
 ## Hinweise zur Nachnutzung der Daten  
 
