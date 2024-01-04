@@ -7,13 +7,13 @@ Nordufer 20
 13353 Berlin  
 
 
-[Niels Michalski](https://orcid.org/0000-0002-5943-1361), [Marvin Reis](https://orcid.org/0000-0003-4551-5203), [Fabian Tetzlaff](https://orcid.org/0000-0001-6933-4162), [Enno Nowossadeck](https://orcid.org/0000-0002-8534-0463) und [Jens Hoebel](https://orcid.org/0000-0002-6623-1579) (Projektleitung)  
+[Niels Michalski](https://orcid.org/0000-0002-5943-1361), Omar Soliman, [Marvin Reis](https://orcid.org/0000-0003-4551-5203), [Fabian Tetzlaff](https://orcid.org/0000-0001-6933-4162), [Enno Nowossadeck](https://orcid.org/0000-0002-8534-0463) und [Jens Hoebel](https://orcid.org/0000-0002-6623-1579) (Projektleitung)  
 FG 28 | Soziale Determinanten der Gesundheit  
 
 ---
 **Zitieren**  
 
-Michalski, Niels; Soliman, Omar; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.10457601](https://doi.org/10.5281/zenodo.10457601)
+Michalski, Niels; Soliman, Omar; Marvin Reis; Fabian Tetzlaff; Enno Nowossadeck; Jens Hoebel (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. [DOI: 10.5281/zenodo.10457716](https://doi.org/10.5281/zenodo.10457716)
 
 
 ## Informationen zum Forschungskontext
@@ -226,6 +226,6 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 - https://edoc.rki.de/
 ### Lizenz  
 
-Der Datensatz "SARS-CoV-2-Sequenzdaten aus Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "German Index of Socioeconomic Deprivation (GISD)" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LIZENZ) Datei des Datensatzes..  

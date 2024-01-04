@@ -48,7 +48,7 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.10457601
+doi: 10.5281/zenodo.10457716
 version: '2019-12-31T23:59:59+01:00'
 authors:
   - family-names: Michalski
