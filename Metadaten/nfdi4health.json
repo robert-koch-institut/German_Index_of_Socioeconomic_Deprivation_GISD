@@ -1,1 +1,236 @@
-{"resource":{"classification":{"type":"Dataset"},"collection":["Robert Koch Institute"],"descriptions":[{"language":"DE (German)","text":"Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019."}],"titles":[{"language":"DE (German)","text":"German Index of Socioeconomic Deprivation (GISD)"}],"ids":[{"identifier":"10.5281/zenodo.10457601","typeGeneral":"Dataset","relationType":"A references B","scheme":"DOI"},{"identifier":"https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD","relationType":"A references B","typeGeneral":"Dataset","scheme":"URL"}],"provenance":{"dataSource":"Automatically uploaded: Other"},"keywords":[{"label":"Soziale Deprivation"},{"label":"Regionale Ungleichheit"},{"label":"Gesundheitliche Ungleichheit"},{"label":"Deprivationsindex"},{"label":"Sozioökomomische Ungleichheit"},{"label":"Soziale Determinanten"},{"label":"Sozial-Epidemiologie"},{"label":"Social Deprivation"},{"label":"Regional Inequality"},{"label":"Deprivation Index"},{"label":"Health Inequality"},{"label":"Social Determinants"},{"label":"Social Epidemiology"},{"label":"Health Geography"},{"label":"GISD"},{"label":"INKAR"},{"label":"Germany"},{"label":"Deutschland"},{"label":"Public Health"},{"label":"RKI"},{"label":"Gesundheitsberichterstattung","code":"info:ddc/22/de//614.42"},{"label":"Public health surveillance","code":"info:ddc/22/eng//614.42"}],"languages":["DE (German)"],"nonStudyDetails":{"useRights":{"confirmations":{"authority":true,"irrevocability":true,"terms":true,"supportByLicensing":true},"label":"CC BY 4.0 (Creative Commons Attribution 4.0 International)"},"version":"2019-12-31"},"webpage":"https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/","contributors":[{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Niels","familyName":"Michalski","identifiers":[{"identifier":"0000-0002-5943-1361","scheme":"ORCID"}]}},{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Omar","familyName":"Soliman"}},{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Marvin","familyName":"Reis","identifiers":[{"identifier":"0000-0003-4551-5203","scheme":"ORCID"}]}},{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Fabian","familyName":"Tetzlaff","identifiers":[{"identifier":"0000-0001-6933-4162","scheme":"ORCID"}]}},{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Enno","familyName":"Nowossadeck","identifiers":[{"identifier":"0000-0002-8534-0463","scheme":"ORCID"}]}},{"affiliations":[{"name":"Robert Koch-Institut"}],"nameType":"Personal","personal":{"type":"Creator/Author","givenName":"Jens","familyName":"Hoebel","identifiers":[{"identifier":"0000-0002-6623-1579","scheme":"ORCID"}]}}]}}
+{
+  "resource": {
+    "classification": {
+      "type": "Dataset"
+    },
+    "collection": [
+      "Robert Koch Institute"
+    ],
+    "descriptions": [
+      {
+        "language": "DE (German)",
+        "text": "Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019."
+      }
+    ],
+    "titles": [
+      {
+        "language": "DE (German)",
+        "text": "German Index of Socioeconomic Deprivation (GISD)"
+      }
+    ],
+    "ids": [
+      {
+        "identifier": "10.5281/zenodo.10457601",
+        "typeGeneral": "Dataset",
+        "relationType": "A references B",
+        "scheme": "DOI"
+      },
+      {
+        "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
+        "relationType": "A references B",
+        "typeGeneral": "Dataset",
+        "scheme": "URL"
+      }
+    ],
+    "provenance": {
+      "dataSource": "Automatically uploaded: Other"
+    },
+    "keywords": [
+      {
+        "label": "Soziale Deprivation"
+      },
+      {
+        "label": "Regionale Ungleichheit"
+      },
+      {
+        "label": "Gesundheitliche Ungleichheit"
+      },
+      {
+        "label": "Deprivationsindex"
+      },
+      {
+        "label": "Sozioökomomische Ungleichheit"
+      },
+      {
+        "label": "Soziale Determinanten"
+      },
+      {
+        "label": "Sozial-Epidemiologie"
+      },
+      {
+        "label": "Social Deprivation"
+      },
+      {
+        "label": "Regional Inequality"
+      },
+      {
+        "label": "Deprivation Index"
+      },
+      {
+        "label": "Health Inequality"
+      },
+      {
+        "label": "Social Determinants"
+      },
+      {
+        "label": "Social Epidemiology"
+      },
+      {
+        "label": "Health Geography"
+      },
+      {
+        "label": "GISD"
+      },
+      {
+        "label": "INKAR"
+      },
+      {
+        "label": "Germany"
+      },
+      {
+        "label": "Deutschland"
+      },
+      {
+        "label": "Public Health"
+      },
+      {
+        "label": "RKI"
+      },
+      {
+        "label": "Gesundheitsberichterstattung",
+        "code": "info:ddc/22/de//614.42"
+      },
+      {
+        "label": "Public health surveillance",
+        "code": "info:ddc/22/eng//614.42"
+      }
+    ],
+    "languages": [
+      "DE (German)"
+    ],
+    "nonStudyDetails": {
+      "useRights": {
+        "confirmations": {
+          "authority": true,
+          "irrevocability": true,
+          "terms": true,
+          "supportByLicensing": true
+        },
+        "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
+      },
+      "version": "2019-12-31"
+    },
+    "webpage": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/",
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Niels",
+          "familyName": "Michalski",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-5943-1361",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Omar",
+          "familyName": "Soliman"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Marvin",
+          "familyName": "Reis",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4551-5203",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Fabian",
+          "familyName": "Tetzlaff",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6933-4162",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Enno",
+          "familyName": "Nowossadeck",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8534-0463",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut"
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Jens",
+          "familyName": "Hoebel",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-6623-1579",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      }
+    ],
+    "identifier": "2656"
+  }
+}
