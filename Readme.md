@@ -7,13 +7,14 @@ Nordufer 20
 13353 Berlin  
 
 
-[Niels Michalski](https://orcid.org/0000-0002-5943-1361), Omar Soliman, [Marvin Reis](https://orcid.org/0000-0003-4551-5203), [Fabian Tetzlaff](https://orcid.org/0000-0001-6933-4162), [Enno Nowossadeck](https://orcid.org/0000-0002-8534-0463) und [Jens Hoebel](https://orcid.org/0000-0002-6623-1579) (Projektleitung)  
-FG 28 | Soziale Determinanten der Gesundheit  
+[Niels Michalski](https://orcid.org/0000-0002-5943-1361)&sup1;, [Lola Omar Soliman](https://orcid.org/0009-0001-6956-0132)&sup1;, [Marvin Reis](https://orcid.org/0000-0003-4551-5203)&sup1;, [Fabian Tetzlaff](https://orcid.org/0000-0001-6933-4162)&sup1;, [Enno Nowossadeck](https://orcid.org/0000-0002-8534-0463)&sup1; und [Jens Hoebel](https://orcid.org/0000-0002-6623-1579)&sup1; (Projektleitung)
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut | FG 28 Soziale Determinanten der Gesundheit](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG28/fg28-soziale-determinanten-der-gesundheit-node.html)
 
 ---
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Michalski, N., Soliman, O., Reis, M., Tetzlaff, F., Nowossadeck, E., & Hoebel, J. (2024). German Index of Socioeconomic Deprivation (GISD) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10457716](https://doi.org/10.5281/zenodo.10457716)
+Michalski, N., Soliman, L.O., Reis, M., Tetzlaff, F., Nowossadeck, E., & Hoebel, J. (2025). German Index of Socioeconomic Deprivation (GISD) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14781119](https://doi.org/10.5281/zenodo.14781119)
 <!-- CITATION_END -->
 
 
@@ -21,24 +22,24 @@ Michalski, N., Soliman, O., Reis, M., Tetzlaff, F., Nowossadeck, E., & Hoebel, J
 
 Im Datensatz "German Index of Socioeconomic Deprivation (GISD)" werden die Daten des gleichnamigen Indexes bereitgestellt und dokumentiert. Er dient als Maß relativer regionaler sozioökonomischer Benachteiligung. Der German Index of Socieoeoconomic Deprivation (GISD) wird seit 2017 am Robert Koch-Institut erstellt, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Die Indikatoren des GISD werden so gewählt, dass sie eine Analogie zum in der Sozialepidemiologie etablierten individuellen [sozioökonomischen Status (SES)](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Themen/Sozialer_Status/sozialer_status_node.html) zulassen, der die Dimensionen Bildung, Beruf und Einkommen zusammenfasst. Durch diese Konzeption wird es möglich mit dem GISD sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch anhand von Daten untersuchen zu können, die auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Der Begriff regionale Deprivation wird hier in Anlehnung an den Begriff der sozialen Deprivation verwendet und bezeichnet den Grad der Benachteiligung, der aus einem relativen Mangel an sozioökonomischen Ressourcen und aus einem hohen Niveau sozialräumlicher Belastungen in der jeweiligen Wohnregion resultiert, der Einschränkungen der gesellschaftlichen Teilhabechancen zur Folge hat. 
 
-Für die Referenzierung des GISD und seiner Methodik wird folgende Publikation im Journal of Health Monitoring empfohlen, in der eine ausführliche Einführung in den GISD erfolgt. Einige Textbausteine dieser Onlinedokumentation wurden dieser Publikation entnommen: 
+Für die Referenzierung des GISD wird empfohlen zusätzlich zur Datenzitation folgende Publikation im Journal of Health Monitoring zu zitieren. Diese enthält eine ausführliche Einführung in den GISD. Einige Textbausteine dieser Onlinedokumentation wurden dieser Publikation entnommen: 
 
 > Michalski N, Reis M, Tetzlaff F, Herber M, Kroll LE, Hövener C, Nowossadeck E, Hoebel J (2022) German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele. J Health Monit 7(S5): 2–24. [DOI: 10.25646/10640](https://doi.org/10.25646/10640)
 
 Die englische Version ist verfügbar unter:
 > Michalski N, Reis M, Tetzlaff F, Herber M, Kroll LE et al. (2022) German Index of Socioeconomic Deprivation (GISD): Revision, update and applications. J Health Monit 7(S5): 2–23. [DOI 10.25646/10641](https://doi.org/10.25646/10641)
 
-Die Begleitpublikation zur früheren Version des GISD findet sich hier:
+Die Begleitpublikation zur Ursprungsversion des GISD findet sich hier:
 
 > Kroll LE, Schumann M, Hoebel J et al. (2017) Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland. J Health Monit 2(2):103-120 [DOI: 10.25646/2573.2](http://dx.doi.org/10.25646/2573.2)
 
 
 ### Administrative und organisatorische Angaben
 
-Der "German Index of Socioeconomic Deprivation (GISD)" dient im Rahmen der epidemiologischen Forschung und Gesundheitsberichterstattung am Robert Koch-Institut zur Bearbeitung der Themenschwerpunkte [regionale Unterschiede in der Gesundheit](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Themen/RegUnterschiede/RegUnterschiede_node.html) und [soziale Ungleichheit der Gesundheitschancen und Erkrankungsrisiken](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Themen/Sozialer_Status/sozialer_status_node.html).  
-Die Federführung der Entwicklung, Betreuung und Primäranwendung liegt im [Fachgebiet 28 | Sozialen Determinanten der Gesundheit](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG28/fg28_node.html). Autoren des aktuellen Datensatzes sind [Niels Michalski](https://orcid.org/0000-0002-5943-1361) und [Marvin Reis](https://orcid.org/0000-0003-4551-5203). Die Projektleitung liegt bei [Jens Hoebel](https://orcid.org/0000-0002-6623-1579). Die [Ursprungsversion des GISD](https://doi.org/10.7802/1460)  wurde von [Lars E. Kroll](https://www.zi.de/das-zi/mitarbeitende/dr-lars-e-kroll) erstellt. Aktualisierungen und Revisionen des GISD erscheinen in regelmäßigen Abständen. Fragen zur Generierung und Verwendung des GISD können an [GISD@rki.de](mailto:GISD@rki.de) gerichtet werden.   
+Der "German Index of Socioeconomic Deprivation (GISD)" dient im Rahmen der epidemiologischen Forschung und Gesundheitsberichterstattung am Robert Koch-Institut zur Bearbeitung der Themenschwerpunkte [regionale Unterschiede in der Gesundheit](https://www.rki.de/DE/Themen/Gesundheit-und-Gesellschaft/Gesundheitliche-Einflussfaktoren-A-Z/R/Regionale-Unterschiede/Regionale_Unterschiede_inhalt.html) und [soziale Ungleichheit der Gesundheitschancen und Erkrankungsrisiken](https://www.rki.de/DE/Themen/Gesundheit-und-Gesellschaft/Sozialer-Status/Sozialer_Status_Ungleichheit_inhalt.html).  
+Die Federführung der Entwicklung, Betreuung und Primäranwendung liegt im [Fachgebiet 28 | Sozialen Determinanten der Gesundheit](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG28/fg28_org.html). Autoren des aktuellen Datensatzes sind [Niels Michalski](https://orcid.org/0000-0002-5943-1361) und [Lola Omar Soliman](https://orcid.org/0009-0001-6956-0132). Die Projektleitung liegt bei [Jens Hoebel](https://orcid.org/0000-0002-6623-1579). Die [Ursprungsversion des GISD](https://doi.org/10.7802/1460)  wurde von [Lars E. Kroll](https://www.zi.de/das-zi/das-institut-auf-einen-blick/mitarbeitende/detailansicht/lars-e-kroll) erstellt. Aktualisierungen und Revisionen des GISD erscheinen in regelmäßigen Abständen. Fragen zur Generierung und Verwendung des GISD können an [GISD@rki.de](mailto:GISD@rki.de) gerichtet werden.   
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
 
 ## Zielkriterien und Datengrundlage
 
@@ -48,45 +49,51 @@ Die Erstellung des GISD erfolgte mit dem Ziel, ein Maß für die relative sozio�
 
 ### Regionale Ebenen
 
-Gemäß dieser Kriterien wird der GISD auf Ebene der Gemeinden jahresweise für den Zeitraum 1998 bis 2019 generiert und für die unterschiedliche Raumabgrenzungen (Gemeindeverbände, Kreis, Raumordnungsregionen, NUTS-2) bevölkerungsgewichtet aggregiert. Auf jeder räumlichen Ebene wird jeder Region des Gebietsstands ein Wert zugeordnet. 
+Gemäß dieser Kriterien wird der GISD auf Ebene der Gemeinden jahresweise für den Zeitraum 1998 bis 2021 generiert und für die unterschiedliche Raumabgrenzungen (Gemeindeverbände, Kreis, Raumordnungsregionen, NUTS-2) bevölkerungsgewichtet aggregiert. Auf jeder räumlichen Ebene wird jeder Region des Gebietsstands ein Wert zugeordnet. 
 
-|Ebene        |Anzahl (Stand 31.12.2019)  |
-|----------------|---------|
-| Gemeinden	| 10799|
-| Gemeindeverbände und verbandsfreie Gemeinden (GVB)	|4411|
-| Kreise und kreisfreie Städte (Kreise)	|401|
-| Raumordnungsregionen (ROR)	|96|
-| NUTS-2	|38|
+
+
+|Ebene                          | Anzahl (Stand 31.12.2022) |
+|:--------------------------------------------------|------:|
+|Gemeinden                                          |  10786|
+|Gemeindeverbände und verbandsfreie Gemeinden (GVB) |   4396|
+|Kreise und kreisfreie Städte (Kreise)              |    400|
+|Raumordnungsregionen (ROR)                         |     96|
+|NUTS-2                                             |     38|
+
 
 ### Datengrundlage 
 
-Für die Generierung des GISD werden bevorzugt Daten aus der Datenbank [INKAR](https://www.inkar.de) (Indikatoren und Karten zur Raum- und Stadtentwicklung) des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR) verwendet. Bei INKAR handelt es sich um einen interaktiven Online-Atlas mit regionalstatistischen Informationen zu den Themen Bevölkerungsentwicklung, Arbeitsmarkt, Bildung, Wirtschaft, Wohnen, Verkehr und Umwelt. In der Datenbank sind rund 600 Indikatoren für verschiedene regionale Ebenen hinterlegt, so dass Vergleiche zwischen europäischen Regionen, Bundesländern, Kreisen, Gemeindeverbänden und verbandsfreien Gemeinden ermöglicht werden. Die Untergliederung der regionalen Einheiten basiert auf der [administrativen Gliederung Deutschlands](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html). Die Zeitreihen der Statistiken reichen zum Teil bis ins Jahr 1995 zurück. Die INKAR-Daten bieten durch ihre öffentliche Verfügbarkeit und gute Dokumentation ein hohes Maß an Transparenz. Zudem werden die Daten über die Zeit harmonisiert und auf die aktuellen Gebietsstände bezogen, so dass zeitliche Trends analysiert werden können. Aufgrund der genannten Eigenschaften werden Daten aus der INKAR-Datenbank gegenüber anderen Datenquellen bevorzugt. Die Zeitreihen für zwei Indikatoren wurden von der [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Fachstatistiken-Nav.html) bezogen.
+Für die Generierung des GISD werden bevorzugt Daten aus der Datenbank [INKAR](https://www.inkar.de) (Indikatoren und Karten zur Raum- und Stadtentwicklung) des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR) verwendet. Bei INKAR handelt es sich um einen interaktiven Online-Atlas mit regionalstatistischen Informationen zu den Themen Bevölkerungsentwicklung, Arbeitsmarkt, Bildung, Wirtschaft, Wohnen, Verkehr und Umwelt. In der Datenbank sind rund 600 Indikatoren für verschiedene regionale Ebenen hinterlegt, so dass Vergleiche zwischen europäischen Regionen, Bundesländern, Kreisen, Gemeindeverbänden und verbandsfreien Gemeinden ermöglicht werden. Die Untergliederung der regionalen Einheiten basiert auf der [administrativen Gliederung Deutschlands](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html). Die Zeitreihen der Statistiken reichen zum Teil bis ins Jahr 1995 zurück. Die INKAR-Daten bieten durch ihre öffentliche Verfügbarkeit und gute Dokumentation ein hohes Maß an Transparenz. Zudem werden die Daten über die Zeit harmonisiert und auf die aktuellen Gebietsstände bezogen, so dass zeitliche Trends analysiert werden können. Aufgrund der genannten Eigenschaften werden Daten aus der INKAR-Datenbank gegenüber anderen Datenquellen bevorzugt. Die Zeitreihen für zwei Indikatoren wurden für frühere Jahre (bis 2011) von der [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Fachstatistiken-Nav.html) bezogen.
 
 ### Auswahl der Indikatoren 
 
-Der Index greift im Wesentlichen auf die Indikatoren zurück, deren Auswahl in einer früheren Version des GISD auf Grundlage der Ergebnisse einer systematischen Literaturrecherche in den Literaturdatenbanken von PubMed und Google Scholar getroffen wurde [Kroll et al 2017](https://doi.org/10.17886/RKI-GBE-2017-035). Die Indikatoren sollten außerdem drei weitere Kriterien erfüllen: Erstens die regionale Auflösung der Daten sollte möglichst fein sein. Sie sollten mindestens auf Kreisebene, idealerweise auf Ebene der Gemeindeverbände und verbandsfreien Gemeinden (GVB) vorliegen. Zweitens sollten die Indikatoren möglichst über einen Zeitraum von derzeit rückblickend 20 Jahren verfügbar und auf aktuelle Gebietsstände bezogen sein. Drittens sollten die Indikatoren auf einer der Teildimensionen mit ausreichender Höhe laden, um eine Zusammenfassung zu einer Dimension zu rechtfertigen. Für die aktuelle Version des GISD wurden die derzeit in der INKAR-Datenbank bereitgestellten Indikatoren auf ihre Eignung hin überprüft. Hierbei stellte sich heraus, dass alle acht ursprünglich verwendeten Indikatoren auch weiterhin in der INKAR-Datenbank enthalten sind. Als problematisch erwies sich der Indikator „Anteil der sozialversicherungspflichtig Beschäftigten mit akademischem Berufsabschluss an allen sozialversicherungspflichtig Beschäftigen“, da dieser in der Datenbankversion von INKAR 2021 nur noch auf den Arbeitsort und nicht mehr auf den Wohnort bezogen bereitgestellt wurde. Der Bezug zum Wohnort ist für den Indikator alternativlos, damit er als Näherungswert für das Bildungsniveau in der regionalen Wohnbevölkerung gelten kann. Die Zeitreihen für den wohnortbezogenen Indikator wurden daher für die aktuelle GISD-Revision direkt von der Statistik der Bundesagentur für Arbeit bezogen. In diesem Zuge wurde auch der Indikator „Anteil sozialversicherungspflichtig Beschäftigter ohne Berufsabschluss an allen sozialversicherungspflichtig Beschäftigten“ neu in die Liste der Indikatoren aufgenommen. Dadurch kann die Bildungsdimension in der vorliegenden Revision wie die Einkommens- und Beschäftigungsdimension durch drei Indikatoren repräsentiert werden. Um der mangelnden Analogie der Indikatoren der Beschäftigungsdimension mit denen des Berufsstatus im sozioökonomischen Status (SES) gerecht zu werden, weicht die Bezeichnung dieser GISD-Dimension von der des SES ab. In folgender Tabelle sind die Dimensionen mit ihren Indikatoren und der jeweiligen Ursprungsquelle der Daten dargestellt:
+Der Index greift im Wesentlichen auf die Indikatoren zurück, deren Auswahl in einer früheren Version des GISD auf Grundlage der Ergebnisse einer systematischen Literaturrecherche in den Literaturdatenbanken von PubMed und Google Scholar getroffen wurde [Kroll et al 2017](https://doi.org/10.17886/RKI-GBE-2017-035). Die Indikatoren sollten außerdem drei weitere Kriterien erfüllen: Erstens die regionale Auflösung der Daten sollte möglichst fein sein. Sie sollten mindestens auf Kreisebene, idealerweise auf Ebene der Gemeinden oder Gemeindeverbände und verbandsfreien Gemeinden (GVB) vorliegen. Zweitens sollten die Indikatoren möglichst über einen Zeitraum von derzeit rückblickend 20 Jahren verfügbar und auf aktuelle Gebietsstände bezogen sein. Drittens sollten die Indikatoren ausreichend hoch mit anderen Indikatoren der gleichen Teildimension korrelieren, um eine Zusammenfassung zu einer Dimension zu rechtfertigen. Für die aktuelle Version des GISD wurden die derzeit in der INKAR-Datenbank bereitgestellten Indikatoren auf ihre Eignung hin überprüft. Hierbei stellte sich heraus, dass alle acht ursprünglich verwendeten Indikatoren auch weiterhin in der INKAR-Datenbank enthalten sind. Der Indikator „Anteil sozialversicherungspflichtig Beschäftigter ohne Berufsabschluss an allen sozialversicherungspflichtig Beschäftigten“ wurde seit der Version [GISD Release 2022 v1.0](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Archiv/GISD_Release_2022_v0.3.zip) in die Liste der Indikatoren aufgenommen. Dadurch kann die Bildungsdimension in der vorliegenden Revision wie die Einkommens- und Beschäftigungsdimension durch drei Indikatoren repräsentiert werden. Um der mangelnden Analogie der Indikatoren der Beschäftigungsdimension mit denen des Berufsstatus im sozioökonomischen Status (SES) gerecht zu werden, weicht die Bezeichnung dieser GISD-Dimension von der des SES ab. In folgender Tabelle sind die Dimensionen mit ihren Indikatoren und der jeweiligen Ursprungsquelle der Daten dargestellt:
 
-|Dimension        |Merkmal	 |Indikator | Quelle | Verfügbarkeit |
-|----------------|---------|------------------------------------|--------------------------------------|--------------------|
-| Bildung |Beschäftigte mit (Fach-)Hoch-schulabschluss |	Anteil der SV Beschäftigten am Wohnort mit akademischem Abschluss an den SV Beschäftigten am Wohnort in % |	Statistik der Bundesagentur für Arbeit | Kreise für die Jahre 2001-2011 und 2013-2019* |
-| Bildung |	Beschäftigte ohne Abschluss | Anteil der SV Beschäftigten am Wohnort ohne Berufsabschluss an den SV Beschäftigten am Wohnort in % | Statistik der Bundesagentur für Arbeit | Kreise für die Jahre 2001-2011 und 2013-2019* |
-| Bildung |	Schulabgänger-innen und -abgänger ohne Abschluss |Anteil der Schulabgängerinnen und -abgänger ohne Hauptschulabschluss an den Schulabgängerinnen und -abgängern in % | Statistik der allgemein-bildenden Schulen des Bundes und der Länder |	Kreise für die Jahre 1998-2019 |
-Beschäf-tigung|Arbeitslosigkeit|Anteil der Arbeitslosen an den Einwohnerinnen und Einwohnern im erwerbsfähigen Alter|Statistik der Bundesagentur für Arbeit|GVB für die Jahre 1998-2019**
-Beschäf-tigung|Beschäftigtenquote|SV Beschäftigte am Wohnort je 100 Einwohnerinnen und Einwohner im erwerbsfähigen Alter|Statistik der Bundesagentur für Arbeit|GVB für die Jahre 1998-2019**
-Beschäf-tigung|Bruttolohn und -gehalt|Monatlicher Bruttoverdienst der Arbeitnehmerinnen und Arbeitnehmer in Euro|Volkswirtschaftliche Gesamtrechnung der Länder|Kreise für die Jahre 2000-2019
-Einkommen|Haushalts-nettoeinkommen|Durchschnittliches Haushalts-einkommen in € je Einwohnerinnen und Einwohner|Volkswirtschaftliche Gesamtrechnung der Länder|Kreise für die Jahre 2000-2019
-Einkommen|Schuldnerquote|Private Schuldnerinnen und Schuldner je 100 Einwohnerinnen und Einwohner 18 Jahre und älter in %|Schuldneratlas Deutschland des Verbands der Vereine Creditreform e.V.|Kreise für die Jahre 2004-2019
-Einkommen|Steuereinnahmen|Einkommensteuer in € je Einwohnerinnen und Einwohner|Realsteuervergleich des Bundes und der Länder|GVB für die Jahre 1998-2019
+|Dimension     |Name des Indikators                        |Indikator                                                                                                 |Regionale Tiefe |Quelle                                                                |
+|:-------------|:------------------------------------------|:---------------------------------------------------------------------------------------------------------|:---------------|:---------------------------------------------------------------------|
+|Bildung       |Beschäftigte mit (Fach-)Hochschulabschluss |Anteil der SV-Beschäftigten am Wohnort mit akademischem Abschluss an den SV-Beschäftigten am Wohnort in % |Kreis           |Statistik der Bundesagentur für Arbeit                                |
+|Bildung       |Beschäftigte ohne Abschluss                |Anteil der SV-Beschäftigten am Wohnort ohne Berufsabschluss an den SV-Beschäftigten am Wohnort in %       |Kreis           |Statistik der Bundesagentur für Arbeit                                |
+|Bildung       |Schulabgänger:innen ohne Abschluss         |Anteil der Schulabgänger:innen ohne Hauptschulabschluss an den Schulabgänger:innen in %                   |Kreis           |Statistik der allgemeinbildenden Schulen des Bundes und der Länder    |
+|Beschäftigung |Arbeitslosigkeit                           |Anteil der Arbeitslosen an den Einwohner:innen im erwerbsfähigen Alter                                    |Gemeinde        |Statistik der Bundesagentur für Arbeit                                |
+|Beschäftigung |Beschäftigtenquote                         |SV-Beschäftigte am Wohnort je 100 Einwohner:innen im erwerbsfähigen Alter                                 |Gemeinde        |Statistik der Bundesagentur für Arbeit                                |
+|Beschäftigung |Bruttolohn und -gehalt                     |Monatlicher Bruttoverdienst der Arbeitnehmer:innen in Euro                                                |Kreis           |Volkswirtschaftliche Gesamtrechnung der Länder                        |
+|Einkommen     |Steuereinnahmen                            |Einkommensteuer in € je Einwohner:in                                                                      |Gemeindeverband |Volkswirtschaftliche Gesamtrechnung der Länder                        |
+|Einkommen     |Haushaltsnettoeinkommen                    |Durchschnittliches Haushaltseinkommen in € je Einwohner:in                                                |Kreis           |Schuldneratlas Deutschland des Verbands der Vereine Creditreform e.V. |
+|Einkommen     |Schuldner:innenquote                       |Private Schuldner:innen je 100 volljährige Einwohner:innen in %                                           |Kreis           |Realsteuervergleich des Bundes und der Länder + INKAR                 |
 
-Quellen: [INKAR 2021](https://www.inkar.de/), [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/)  
+
+Quellen: [INKAR 2024](https://www.inkar.de/), [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/)  
 
 GVB = Gemeindeverbände und verbandsfreie Gemeinden  
 SV = sozialversicherungspflichtig  
 
-*Datenquelle für die Anteile der sozialversicherungspflichtig Beschäftigten ohne Abschluss und mit akademischem Abschluss ist die [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/). Daten für die Jahre 2013 bis 2019 sind dort frei verfügbar. Daten für die Jahre 2001 bis 2011 wurden direkt über die Statistik der Bundesagentur für Arbeit bezogen.
-**Für die Arbeitslosigkeit und die Beschäftigtenquote standen Werte für die GVB-Ebene erst ab 2001 zur Verfügung. Für die Jahre 1998 bis 2001 wurden den GVB die Werte der Kreisebene zugeordnet.
+*Datenquelle: Für die Anteile der sozialversicherungspflichtig Beschäftigten ohne Abschluss und mit akademischem Abschluss wurden die Daten für die Jahre 2001 bis 2011 direkt über die Statistik der Bundesagentur für Arbeit bezogen [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/). Alle weiteren Daten wurden aus [INKAR 2024](https://www.inkar.de/) bezogen.
 
-> [INKAR (2021) Indikatoren und Karten zur Raum- und Stadtentwicklung. Ausgabe 2021. Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR), Bonn.](https://www.inkar.de/)
+*Für die Beschäftigtenquote standen Werte für die Gemeindeebene erst ab 2001 zur Verfügung. Für die Jahre 1998 bis 2000 wurden den Gemeinden die Werte der Kreisebene zugeordnet.
+
+
+> [Laufende Raumbeobachtung des BBSR - INKAR, Ausgabe 03/2024. Hrsg.: Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR), Bonn.](https://www.inkar.de/)
 
 > [Statistik der Bundesagentur für Arbeit (2022) Tabellen, Beschäftigte nach Berufen (KldB 2010) (Quartalszahlen), Nürnberg.](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Fachstatistiken-Nav.html)
 
@@ -96,44 +103,47 @@ SV = sozialversicherungspflichtig
 
 ### Zeitreihenimputation und Datenharmonisierung
 
-Für drei der neun Indikatoren sind Daten auf der Ebene der Gemeindeverbände und verbandsfreien Gemeinden (GVB) verfügbar, so dass der Index auch Unterschiede in der sozioökonomischen Deprivation zwischen GVB innerhalb von Kreisen feststellen kann. Für die Indikatoren Arbeitslosigkeit und Beschäftigtenquote lagen die Daten für die Jahre 1998 bis 2000 nur auf der Kreisebene vor, so dass die Variation zwischen GVB für diese frühen Jahre nochmals geringer ausfällt. Für die Bildungsindikatoren „Beschäftigte ohne Abschluss“ und „Beschäftigte mit (Fach-)Hochschulabschluss“ gibt es aufgrund einer Umstellung im Meldeverfahren zur Sozialversicherung keine Werte für das Jahr 2012 [(Statistik der Bundesagentur für Arbeit)](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Methodik-Qualitaet/Methodenberichte/Arbeitsmarktstatistik/Generische-Publikationen/Methodenbericht-qualifikationsspezifische-Arbeitslosenquoten.pdf). Um diese Zeitreihenlücke zu füllen wurden die Daten für 2011 auf 2012 übertragen. Für einige Indikatoren beginnen die Zeitreihen nicht im Basisjahr 1998. Für diese Indikatoren wurden fehlende Werte auf Grundlage der vorhandenen Zeitreihen geschätzt (lineare Random-Intercept-Modelle für Zeitreihen). Das betrifft die Jahre vor 2004 und insbesondere die Jahre 1998 bis 2000, für die drei bis fünf Indikatoren auf diese Weise ersetzt wurden. Von 2001 bis 2003 mussten nur fehlende Werte eines Indikators geschätzt werden.
-Um die Informationen der Rohdaten als Zeitreihe verwenden zu können und für die Hauptkomponentenanalyse aufzubereiten, wurden einige Indikatoren um Artefakte der Erhebung und statistische Artefakte bereinigt: 1) Die Indikatoren mit währungsbasierten, nach oben offenen Skalen (Steuereinnahmen, Bruttolohn und mittleres Haushaltsnettoeinkommen) wurden kaufkraftbereinigt und logarithmiert. 2) Für die Indikatoren „Beschäftigte ohne Abschluss“ und „Beschäftigte mit (Fach-)Hochschulabschluss“ führte die bereits erwähnte Umstellung im Meldeverfahren zur Sozial-versicherung zu einer Veränderung der Niveaus der Zeitreihe. Die durchschnittliche Veränderung des Niveauparameters durch die Umstellung des Meldeverfahrens wurde statistisch identifiziert und die Zeitreihe vor der Umstellung auf das Niveau nach der Umstellung angepasst. 3) Der Indikator „Schulabgängerinnen und -abgänger ohne Abschluss“ wurde um Einflüsse der G8-Reformen bei den jährlichen Zahlen der Schulabgängerinnen und -abgänger bereinigt. Diese Korrektur war notwendig, da die Schulabschlussjahrgänge in den Jahren, in denen die ersten Schülerinnen und Schüler im neu eingeführten G8-System nach zwölf Jahren ihr Abitur machen, doppelt besetzt sind und der Anteil der Schulabgängerinnen und -abgänger ohne Abschluss deshalb aufgrund der insgesamt höheren Abschlusszahlen geringer ausfällt. Um diese Artefakte herauszurechnen wurde der statistische Effekt der G8-Reformen mit den Daten regressionsanalytisch geschätzt und für die betroffenen Bundesländer in den betreffenden Jahren abgezogen. 4) Bei der Betrachtung des Indikators Anteil der Beschäftigten ohne Abschluss fiel eine bimodale Verteilung auf, die auf den deutlich geringeren Anteil an Beschäftigten ohne Abschluss in den ostdeutschen Bundesländern zurückzuführen ist. Inhaltlich sollte der Indikator als Proxy für den Bildungsstand der Bevölkerung dienen. Historische gewachsene Unterschiede zwischen den Landesteilen sowie die Einbindung der DDR-Bevölkerung ins Erwerbssystem der BRD sorgen in dieser Frage allerdings für unterschiedliche Vergleichsmaßstäbe. Um für diese historisch geprägten und demografischen Unterschiede zu korrigieren, wurde die mittlere Differenz der entsprechenden Anteile zwischen ost- und westdeutschen Bundesländern bestimmt und den Regionen in den ostdeutschen Bundesländern zugeschlagen, wodurch eine unimodale Verteilung der Werte erzeugt wurde. 
+Für zwei der neun Indikatoren sind Daten auf der Ebene der Gemeinden verfügbar, für einen Indikator auf Ebene der Gemeindeverbände und verbandsfreien Gemeinden (GVB), so dass der Index auch Unterschiede in der sozioökonomischen Deprivation zwischen Gemeinden innerhalb von Kreisen feststellen kann. Für die Bildungsindikatoren „Beschäftigte ohne Abschluss“ und „Beschäftigte mit (Fach-)Hochschulabschluss“ gibt es aufgrund einer Umstellung im Meldeverfahren zur Sozialversicherung keine Werte für das Jahr 2012 [(Statistik der Bundesagentur für Arbeit)](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Methodik-Qualitaet/Methodenberichte/Arbeitsmarktstatistik/Generische-Publikationen/Methodenbericht-qualifikationsspezifische-Arbeitslosenquoten.pdf). Um diese Zeitreihenlücke zu füllen wurden die Daten für 2011 auch auf 2012 übertragen. 
+Für einige Indikatoren beginnen die Zeitreihen nicht im Basisjahr 1998. Für diese Indikatoren wurden fehlende Werte auf Grundlage der vorhandenen Zeitreihen geschätzt (lineare Random-Intercept-Modelle für Zeitreihen). Das betrifft die Jahre vor 2004 und insbesondere die Jahre 1998 bis 2000, für die Werte von fünf Indikatoren auf diese Weise imputiert wurden. Von 2001 bis 2003 mussten nur fehlende Werte eines Indikators geschätzt werden.
+Um die Informationen der Rohdaten als Zeitreihe verwenden zu können und für die Hauptkomponentenanalyse aufzubereiten, wurden einige Indikatoren um Artefakte der Erhebung und statistische Artefakte bereinigt: 1) Die Indikatoren mit währungsbasierten, nach oben offenen Skalen (Steuereinnahmen, Bruttolohn und mittleres Haushaltsnettoeinkommen) wurden kaufkraftbereinigt und logarithmiert. 2) Für die Indikatoren „Beschäftigte ohne Abschluss“ und „Beschäftigte mit (Fach-)Hochschulabschluss“ führte die bereits erwähnte Umstellung im Meldeverfahren zur Sozialversicherung zu einer Veränderung der Niveaus der Zeitreihe. Die durchschnittliche Veränderung des Niveauparameters durch die Umstellung des Meldeverfahrens wurde statistisch identifiziert und die Zeitreihe vor der Umstellung auf das Niveau nach der Umstellung angepasst. 3) Der Indikator „Schulabgängerinnen und -abgänger ohne Abschluss“ wurde um Einflüsse der G8-Reformen auf die jährlichen Zahlen der Schulabgängerinnen und -abgänger bereinigt. Diese Korrektur war notwendig, da die Schulabschlussjahrgänge in den Jahren, in denen die ersten Schülerinnen und Schüler im neu eingeführten G8-System nach zwölf Jahren ihr Abitur machen, doppelt besetzt sind und der Anteil der Schulabgängerinnen und -abgänger ohne Abschluss deshalb aufgrund der insgesamt höheren Abschlusszahlen geringer ausfällt. Umgekehrtes gilt in den Jahren, in denen die Rücknahme der G8-Reform griff. Um diese Artefakte herauszurechnen wurde die statistischen Effekte der G8-Reformen mit den Daten regressionsanalytisch geschätzt und für die betroffenen Bundesländer in den betreffenden Jahren abgezogen. 4) Bei der Betrachtung des Indikators Anteil der Beschäftigten ohne Abschluss fiel eine bimodale Verteilung auf, die auf den deutlich geringeren Anteil an Beschäftigten ohne Abschluss in den ostdeutschen Bundesländern zurückzuführen ist. Inhaltlich sollte der Indikator als Proxy für den Bildungsstand der Bevölkerung dienen. Historische gewachsene Unterschiede zwischen den Landesteilen sowie die Einbindung der DDR-Bevölkerung ins Erwerbssystem der BRD sorgen in dieser Frage allerdings für unterschiedliche Vergleichsmaßstäbe. Um für diese historisch geprägten und demografischen Unterschiede zu korrigieren, wurde die mittlere Differenz der entsprechenden Anteile zwischen ost- und westdeutschen Bundesländern bestimmt und den Regionen in den ostdeutschen Bundesländern zugeschlagen, wodurch eine unimodale Verteilung der Werte erzeugt wurde. 
 
 
 ### Indexbildung 
 
-Die Bestimmung der Indexwerte erfolgte in drei Schritten. In einem ersten Schritt wurden separate Hauptkomponentenanalysen für jede der drei Teildimension durchgeführt. Aus diesen wurden in einem zweiten Schritt Werte für die Teildimensionen über das Faktor-Scoring-Verfahren generiert. In einem dritten Schritt wurden die Werte für die Teildimensionen normalisiert und zum GISD-Score aufsummiert. Für die Hauptkomponentenanalysen wurden die Daten der GISD-Indikatoren für die Jahre 2001-2019 gepoolt. Dadurch konnte neben der Variation zwischen den regionalen Einheiten auch die Variation über die Zeit genutzt werden, um die Zusammenhänge zwischen den Indikatoren zu bestimmen. In die Hauptkomponentenanalyse wurden nur Daten ab 2001 eingeschlossen, um starken Verzerrungen der Gewichte durch imputierte Werte vorzubeugen. Die Hauptkomponentenanalysen bestätigten für jede Teildimension eine eindimensionale Struktur. Die Faktorladungen, die als Korrelation der Indikatoren mit der Hauptkomponente gelesen werden können, erreichten zufriedenstellende bis gute Werte:
+Die Bestimmung der Indexwerte erfolgt in drei Schritten. In einem ersten Schritt werden separate Hauptkomponentenanalysen für jede der drei Teildimension durchgeführt. Aus diesen werden in einem zweiten Schritt Werte für die Teildimensionen über das Faktor-Scoring-Verfahren generiert. In einem dritten Schritt werden die Werte für die Teildimensionen normalisiert und zum GISD-Score aufsummiert. Für die Hauptkomponentenanalysen werden die Daten der GISD-Indikatoren für die 20 aktuellsten Jahre (2002-2021) gepoolt. Dadurch kann neben der Variation zwischen den regionalen Einheiten auch die Variation über die Zeit genutzt werden, um die Zusammenhänge zwischen den Indikatoren zu bestimmen. Durch den Einschlussbeschränkung der Daten bis 2001 wird außerdem potenziellen Verzerrungen der Gewichte durch imputierte Werte vorgebeugt. Die Hauptkomponentenanalysen bestätigen für jede Teildimension eine eindimensionale Struktur. Die Faktorladungen, die als Korrelation der Indikatoren mit der Hauptkomponente gelesen werden können, erreichen zufriedenstellende bis gute Werte:
 
 
 |Dimension|Variable|Faktorladung|Anteil am Teilscore|Anteil GISD
-| --- | --- | --- | --- | --- |
-|Bildung  |Beschäftigte mit akademischem Abschluss|-0,732|34,1|11,4 |
-|Bildung  |Beschäftigte ohne Abschluss (adj.)             |0,771 |37,8|12,6 |
-|Bildung  |Schulabgängerinnen und -abgänger ohne Abschluss (adj.)|0,663|28,0|9,3
-|Beschäftigung |Beschäftigtenquote|-0,640|23,1|7,7
-|Beschäftigung |Arbeitslosigkeit|0,841|39,9|13,3
-|Beschäftigung |Bruttoverdienst (log.)|-0,810|37,0|12,3
-|Einkommen |Einkommensteuer (log.)|-0,911|40,6|13,5
-|Einkommen|Haushaltseinkommen (log.)|-0,921|41,5|13,8
-|Einkommen|Schuldnerquote|0,607|18,0|6,0
+| --- | --- | ---: | ---: | ---: |
+|Bildung       |Beschäftigte mit akad. Abschluss (adj.) |         0.71|                34.3|           11.4|
+|Bildung       |Beschäftigte ohne Abschluss (adj.)      |        -0.71|                34.3|           11.4|
+|Bildung       |Schulabgänger ohne Abschluss (adj.)     |        -0.67|                31.4|           10.5|
+|Beschäftigung |Arbeitslosigkeit                        |        -0.83|                39.5|           13.2|
+|Beschäftigung |Beschäftigtenquote                      |         0.58|                19.5|            6.5|
+|Beschäftigung |Bruttoverdienst (log.)                  |         0.84|                40.9|           13.6|
+|Einkommen     |Einkommensteuer (log.)                  |         0.92|                40.3|           13.4|
+|Einkommen     |Haushaltseinkommen (log.)               |         0.92|                40.8|           13.6|
+|Einkommen     |Schuldnerquote                          |        -0.63|                18.9|            6.3|
+
 
 log. = logarithmiert,   
 adj. = adjustiert   
 
-*Darstellung der Faktorladungen auf der ersten Hauptkomponente für die einzelnen Dimensionen. Eigenwerte der ersten Komponenten: η(Bildung)=1,6; η(Beschäftigung)=1,8; η(Einkommen)=2,0. Die Eigenwerte der zweiten und dritten Komponenten liegen jeweils unter 0,8. Die Korrelationen zwischen den Scores der Teildimensionen für das Jahr 2019: r(Beschäftigung|Einkommen) = 0,66; r(Beschäftigung|Bildung) =0,52; r(Einkommen|Bildung) =0,69.  
+*Darstellung der Faktorladungen auf der ersten Hauptkomponente für die einzelnen Dimensionen. Eigenwerte der ersten Komponenten: η(Beschäftigung) = 1.7; η(Einkommen) = 2.1; η(Bildung) = 1.5. Die Eigenwerte der zweiten und dritten Komponenten liegen jeweils unter 0,85. Korrelationen zwischen den Scores der Teildimensionen für das Jahr 2021: r(Beschäftigung|Einkommen) = 0.69; r(Beschäftigung|Bildung) = 0.52; r(Einkommen|Bildung) = 0.75   
 
-Im zweiten Schritt wurden Werte (Scores) für die Teildimensionen mit Hilfe des Faktor-Scorings für jede Gemeinde im Datensatz berechnet. Auch Werte für die Jahre 1998 bis 2000 wurden dabei berücksichtigt. Die Faktorwerte der drei Teildimensionen wurden anschließend jahresweise jeweils auf einen Wertebereich zwischen 0 (niedrigste Deprivation) und 1 (höchste Deprivation) normiert. Danach wurden die drei Teilscores aufaddiert, so dass jede Teildimension mit einem Gewicht von etwa einem Drittel in den Gesamt-Index einging. Die so entstandenen GISD-Scores der Gemeinden wurden anschließend jeweils für höhere regionale Einheiten (GVB, Landkreise und kreisfreie Städte, Raumordnungsregionen und die statistischen Regionen gemäß der amtlichen europäischen Statistik NUTS-2) bevölkerungsgewichtet aggregiert. Die Berechnung der GISD-Scores für die höheren regionalen Ebenen mittels bevölkerungsgewichteter Aggregation sorgt dafür, dass zur Berechnung der GISD-Scores für jede räumliche Ebene die gleiche Gewichtung der Indikatoren zur Anwendung kommt. Ausgehend von der Gemeindeebene werden auf diese Weise auch Werte für weitere Raumbezüge wie Postleitzahlgebiete generiert. Die Werte wurden auf den jeweiligen Ebenen jahresweise so normiert, dass die sozioökomische Deprivation der Regionen Werte zwischen 0 (niedrigste Deprivation) und 1 (höchste Deprivation) annehmen kann. Zudem wurden die Einheiten der genannten Raumebenen für die weiteren Analysen gemäß der Verteilung ihrer Indexwerte für jedes Jahr in fünf Gruppen von je zwanzig Prozent (Quintile, Fünftel) eingeteilt, wobei jeweils das unterste Fünftel „niedrige“ und das oberste Fünftel „hohe“ sozioökonomische Deprivation kennzeichnet.   
+Mit Hilfe des Faktor-Scorings werden für jede Gemeinde im Datensatz Werte (GISD-Scores) berechnet. Auch für die Jahre 1998 bis 2001 wurden dabei GISD-Scores generiert. Die Faktorwerte der drei Teildimensionen werden anschließend jahresweise jeweils auf einen Wertebereich zwischen 0 (niedrigste Deprivation) und 1 (höchste Deprivation) normiert. Danach wurden die drei Teilscores aufaddiert, so dass jede Teildimension mit einem Gewicht von etwa einem Drittel in den Gesamt-Index eingeht. Die so entstandenen GISD-Scores der Gemeinden werden anschließend jeweils für höhere regionale Einheiten (GVB, Landkreise und kreisfreie Städte, Raumordnungsregionen und die statistischen Regionen gemäß der amtlichen europäischen Statistik NUTS-2) bevölkerungsgewichtet aggregiert. Die Berechnung der GISD-Scores für die höheren regionalen Ebenen mittels bevölkerungsgewichteter Aggregation sorgt dafür, dass zur Berechnung der GISD-Scores für jede räumliche Ebene die gleiche Gewichtung der Indikatoren zur Anwendung kommt. Ausgehend von der Gemeindeebene werden auf diese Weise auch Werte für weitere Raumbezüge wie Postleitzahlgebiete generiert. Die Werte werden auf den jeweiligen Ebenen jahresweise so normiert, dass die sozioökomische Deprivation der Regionen Werte zwischen 0 (niedrigste Deprivation) und 1 (höchste Deprivation) annehmen kann. Zudem werden die Einheiten der genannten Raumebenen für die weiteren Analysen gemäß der Verteilung ihrer Indexwerte für jedes Jahr in fünf Gruppen von je zwanzig Prozent (Quintile, Fünftel) eingeteilt, wobei jeweils das unterste Fünftel „niedrige“ und das oberste Fünftel „hohe“ sozioökonomische Deprivation kennzeichnet.   
 
+Zu beachten ist, dass die jahresweise Normierung der Scores Folgen für die Interpretation der GISD-Scores über die Zeit hat. Die Scores geben das Ausmaß der sozioökonomischen Deprivation in einem Jahr immer relativ zu den Regionen mit dem höchsten und niedrigsten Wert in dem entsprechenden Jahr wider. Weil der GISD-Score einer Region also von den extremen Werten eines Jahres anhängt, steht ein niedrigerer Wert im Vergleich zwischen zwei Jahren, nicht notwendigerweise für einen Verringerung der absoluten Deprivation. 
 
 ## Datenbereitstellung
 
-Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht dem [GISD Release 2022 v1.1](Archiv/GISD_Release_2022_v1.1.zip) des [Archivs](Archiv/).
+Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht der Version [GISD Release 2025 v1.0](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/GISD_Release_aktuell). Frühere Versionen finden sich im [Archiv](Archiv/).
 
 > [GISD_Release_aktuell/Bund](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bund/)  
 > [GISD_Release_aktuell/Bundesland](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bundesland/)  
 
 
-Die Dateiname sind nach dem Schema `GISD_Bezugsrahmen_Raumabgrenzung.csv` bezeichnet. Die Sequenz "Bezugsrahmen" repräsentiert ob als Bezugsrahmen die Bundesebene "Bund" oder ein bestimmtes Bundesland "Name des Bundeslandes" ausgewählt werden soll. Die Sequenz "Raumabgrenzung" markiert die "regionale Ebene" auf der der GISD verwendet werden soll.  
+Die Dateinamen sind nach dem Schema `GISD_Bezugsrahmen_Raumabgrenzung.csv` bezeichnet. Die Sequenz "Bezugsrahmen" repräsentiert, ob als Bezugsrahmen die Bundesebene "Bund" oder ein bestimmtes Bundesland "Name des Bundeslandes" ausgewählt werden soll. Die Sequenz "Raumabgrenzung" markiert die "regionale Ebene" auf der der GISD verwendet werden soll.  
 
 Beispiel: Die Datei `GISD_Sachsen_Gemeinde.csv` enhält die Daten des GISD auf Gemeindeebene mit dem Bezugsrahmen Sachsen. 
 
@@ -173,7 +183,7 @@ Zusätzlich wurden die Daten im Format `.dta` des Softwarepakets Stata v17 berei
 
 ### Kontextmaterialien  
 
-Zusätzlich werden die Rohdaten aus der INKAR-Datenbank und die Syntax zur Generierung des GISD als Kontexmaterialien zur Verfügung gestellt. 
+Für die Reproduzierbarkeit werden die Rohdaten aus der INKAR-Datenbank und die Syntax zur Generierung des GISD als Kontexmaterialien zur Verfügung gestellt. 
 
 > [Kontextmaterialien/Rohdaten](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Rohdaten/)    
 > [Kontextmaterialien/Syntax/](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Syntax/GISD_Generate_Release.R)  
@@ -206,27 +216,71 @@ In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch d
 
 ## Updates und Bugfixes
 
-Ergänzung in der Version vom 26.5.2023: 
 
-* Dem Archiv wurde die Version GISD_Release_2022_v0.1 hinzugefügt
+Aktualisierung & Bugfixes in der Version 2025-01-31:
+
+
+* Die Aktualisierung führt eine neue GISD-Version GISD_Release_2025_v1.0 ein. 
+* GISD_Release_2025_v1.0 ersetzt die GISD-Version GISD_Release_2022_v1.1 als aktuelles Release. GISD_Release_2022_v1.1 wird dem Archiv hinzugefügt.
+* Entsprechend wurden auch die [Syntax](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Syntax/GISD_Generate_Release.R) zur Replikation der GISD Generierung und die [Rohdaten](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Rohdaten/) aktualisiert.
+* GISD_Release_2025_v1.0 enthält nun GISD-Scores für die Jahre bis 2021. Im Zuge der Generierung wurden auch die Werte aller weiteren Jahre revidiert. 
+* Die GISD-Scores im GISD_Release_2025_v1.0 differenzieren nun auf Gemeindeebene innerhalb von Gemeindeverbänden.
+* In GISD_Release_2025_v1.0 nimmt Glättungen von Ausreißern bei den Teildimensionen Beschäftigung und Einkommen vor, die bisher zu Brüchen in den Zeitreihen für die Teildimensionen und für den GISD geführt haben.
+* Die Teilscores werden nun jahresweise normiert, bevor sie zum GISD-Score aufsummiert werden. Dadurch wird die Gleichgewichtung der Teildimensionen abgesichert.
+* Die Zuordnung der Werte zu Postleitzahlbereichen wurde erneuert und verwendet nun amtliche PLZ-Daten. 
+* Neben der Revision der GISD-Scores in GISD_Release_2025_v1.0 wird auch GISD_Release_2022_v1.1 fortgeführt und um die Jahre 2020 und 2021 ergänzt. Die Fortschreibung der GISD_Release_2022_v1.1 findet sich in der Version [GISD_Release_2022_v1.2_Fortschreibung](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/Archiv). Sie wendet die Gewichtung der Indikatoren und den Gebietsstand (31.12.2019) aus der GISD-Version GISD_Release_2022_v1.1 auf die Rohdaten der Jahre 2020 und 2021 an.
+
 
 Ergänzung & Bugfix in der Version vom 03.01.2024:
 
 * Dem Archiv wurde die Version GISD_Release_2022_v1.1 hinzugefügt
-	* Bei der Generierung der GISD-Scores für die Postleitzahlebene blieben Postleitzahlen aus dem Kreis Göttingen unberücksichtigt. Die fehlenden Werte wurden eingefügt.
+* Bei der Generierung der GISD-Scores für die Postleitzahlebene blieben Postleitzahlen aus dem Kreis Göttingen unberücksichtigt. Die fehlenden Werte wurden eingefügt.
 * Die [Syntax](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Syntax/GISD_Generate_Release.R) zur Replikation der GISD Generierung wurde überarbeitet
 * Die [Rohdaten](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Kontextmaterialien/Rohdaten/) sind nun vollständig verfügbar. In den früheren Versionen waren die Zeitreihen der Rohdaten für die Indikatoren Beschäftigte ohne Abschluss und Beschäftigte mit akademischem Abschluss wegen unklarer Berechtigung der Weitergabe der Daten nicht vollständig.    
 
+
+Ergänzung in der Version vom 26.5.2023: 
+
+* Dem Archiv wurde die Version GISD_Release_2022_v0.1 hinzugefügt
+
+
+
+### Metadaten  
+
+Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
+
+> [Metadaten/](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/)    
+
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
+ 
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json)  
+
+In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch der Datenstand in folgendem Format enthalten (Beispiel):  
+
+```
+  "dates": [
+    {
+      "start": "2023-09-11T15:00:21+02:00",
+      "end": "2023-09-11T15:00:21+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+```    
+
 ## Hinweise zur Nachnutzung der Daten  
 
-Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut
-- https://github.com/robert-koch-institut
-- https://gitlab.opencode.de/robert-koch-institut
-- https://edoc.rki.de/
+- https://zenodo.org/communities/robertkochinstitut  
+- https://github.com/robert-koch-institut  
+- https://gitlab.opencode.de/robert-koch-institut  
+- https://edoc.rki.de/  
+ 
 ### Lizenz  
 
-Der Datensatz "German Index of Socioeconomic Deprivation (GISD)" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "German Index of Socioeconomic Deprivation (GISD)" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LIZENZ) Datei des Datensatzes..  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/LIZENZ) Datei des Datensatzes.  
+
+

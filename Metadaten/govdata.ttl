@@ -9,10 +9,10 @@
               <https://zenodo.org/record/6840304> a dcat:Dataset ;
                   dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
-                  dcatde:contributor [ a foaf:Person; foaf:name "Niels Michalski"; foaf:account <http://orcid.org/0000-0002-5943-1361>; ],[ a foaf:Person; foaf:name "Omar Soliman" ],[ a foaf:Person; foaf:name "Marvin Reis"; foaf:account <http://orcid.org/0000-0003-4551-5203>; ],[ a foaf:Person; foaf:name "Fabian Tetzlaff"; foaf:account <http://orcid.org/0000-0001-6933-4162>; ],[ a foaf:Person; foaf:name "Enno Nowossadeck"; foaf:account <http://orcid.org/0000-0002-8534-0463>; ],[ a foaf:Person; foaf:name "Jens Hoebel"; foaf:account <http://orcid.org/0000-0002-6623-1579>; ];
+                  dcatde:contributor [ a foaf:Person; foaf:name "Niels Michalski"; foaf:account <http://orcid.org/0000-0002-5943-1361>; ],[ a foaf:Person; foaf:name "Lola Omar Soliman"; foaf:account <http://orcid.org/0009-0001-6956-0132>; ],[ a foaf:Person; foaf:name "Marvin Reis"; foaf:account <http://orcid.org/0000-0003-4551-5203>; ],[ a foaf:Person; foaf:name "Fabian Tetzlaff"; foaf:account <http://orcid.org/0000-0001-6933-4162>; ],[ a foaf:Person; foaf:name "Enno Nowossadeck"; foaf:account <http://orcid.org/0000-0002-8534-0463>; ],[ a foaf:Person; foaf:name "Jens Hoebel"; foaf:account <http://orcid.org/0000-0002-6623-1579>; ];
                   dct:description "<p>Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019.</p>" ;
-                  dct:issued "2024-01-04T09:33:33+01:00"^^xsd:dateTime ;
-                  dct:modified "2019-12-31T23:59:59+01:00"^^xsd:dateTime ;
+                  dct:issued "2025-01-31T16:35:08+01:00"^^xsd:dateTime ;
+                  dct:modified "2021-12-31T23:59:59+01:00"^^xsd:dateTime ;
                   dct:publisher [ a foaf:Organization ;
                       foaf:mbox "opendata@rki.de" ;
                       foaf:name "Robert Koch Institut"
@@ -34,35 +34,35 @@
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.10457716" ;
+                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2025): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.14781119" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - German Index of Socioeconomic Deprivation (GISD)" ;
                     dcat:accessURL <https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD>;
-                    dct:modified "2024-01-04T09:33:33+01:00"^^xsd:dateTime;
+                    dct:modified "2025-01-31T16:35:08+01:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.10457716" ;
+                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2025): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.14781119" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - German Index of Socioeconomic Deprivation (GISD)" ;
                     dcat:accessURL <https://zenodo.org/record/6840304>;
-                    dct:modified "2024-01-04T09:33:33+01:00"^^xsd:dateTime;
+                    dct:modified "2025-01-31T16:35:08+01:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
                     dct:title "[Dokumentation] German_Index_of_Socioeconomic_Deprivation_(GISD).pdf" ;
-                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2024): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.10457716" ;
+                    dcatde:licenseAttributionByText "Michalski, Niels et. al. (2025): German Index of Socioeconomic Deprivation (GISD), Berlin: Zenodo. DOI:10.5281/zenodo.14781119" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'German Index of Socioeconomic Deprivation (GISD)' bereitgestellten Daten" ;
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dcat:accessURL <https://zenodo.org/record/6840304/files/%5BDokumentation%5D_German_Index_of_Socioeconomic_Deprivation_GISD.pdf>;
-                    dct:modified "2024-01-04T09:33:33+01:00"^^xsd:dateTime;
+                    dct:modified "2025-01-31T16:35:08+01:00"^^xsd:dateTime;
                   ].

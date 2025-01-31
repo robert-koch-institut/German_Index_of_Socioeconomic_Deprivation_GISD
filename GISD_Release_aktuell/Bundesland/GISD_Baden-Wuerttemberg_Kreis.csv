@@ -1,0 +1,1057 @@
+kreis_id,kreis_name,year,gisd_score
+08111,"Stuttgart, Stadtkreis",1998,0.09302
+08111,"Stuttgart, Stadtkreis",1999,0.06435
+08111,"Stuttgart, Stadtkreis",2000,0.11858
+08111,"Stuttgart, Stadtkreis",2001,0.17934
+08111,"Stuttgart, Stadtkreis",2002,0.23234
+08111,"Stuttgart, Stadtkreis",2003,0.18608
+08111,"Stuttgart, Stadtkreis",2004,0.12231
+08111,"Stuttgart, Stadtkreis",2005,0.07591
+08111,"Stuttgart, Stadtkreis",2006,0.11805
+08111,"Stuttgart, Stadtkreis",2007,0.04792
+08111,"Stuttgart, Stadtkreis",2008,0.07031
+08111,"Stuttgart, Stadtkreis",2009,0.11581
+08111,"Stuttgart, Stadtkreis",2010,0.08709
+08111,"Stuttgart, Stadtkreis",2011,0.07117
+08111,"Stuttgart, Stadtkreis",2012,0.15259
+08111,"Stuttgart, Stadtkreis",2013,0.20328
+08111,"Stuttgart, Stadtkreis",2014,0.15648
+08111,"Stuttgart, Stadtkreis",2015,0.12986
+08111,"Stuttgart, Stadtkreis",2016,0.11919
+08111,"Stuttgart, Stadtkreis",2017,0
+08111,"Stuttgart, Stadtkreis",2018,0.07688
+08111,"Stuttgart, Stadtkreis",2019,0.03562
+08111,"Stuttgart, Stadtkreis",2020,0.0439
+08111,"Stuttgart, Stadtkreis",2021,0.07878
+08115,Böblingen,1998,0
+08115,Böblingen,1999,0.01743
+08115,Böblingen,2000,0.01658
+08115,Böblingen,2001,0.065
+08115,Böblingen,2002,0.15165
+08115,Böblingen,2003,0.14651
+08115,Böblingen,2004,0.08682
+08115,Böblingen,2005,0.04344
+08115,Böblingen,2006,0.04482
+08115,Böblingen,2007,0
+08115,Böblingen,2008,0.01471
+08115,Böblingen,2009,0.06101
+08115,Böblingen,2010,0.04167
+08115,Böblingen,2011,0.00199
+08115,Böblingen,2012,0.12651
+08115,Böblingen,2013,0.17596
+08115,Böblingen,2014,0.14849
+08115,Böblingen,2015,0.10049
+08115,Böblingen,2016,0.10072
+08115,Böblingen,2017,0.07784
+08115,Böblingen,2018,0.10566
+08115,Böblingen,2019,0.03727
+08115,Böblingen,2020,0.06129
+08115,Böblingen,2021,0.07385
+08116,Esslingen,1998,0.06228
+08116,Esslingen,1999,0.07702
+08116,Esslingen,2000,0.17526
+08116,Esslingen,2001,0.18755
+08116,Esslingen,2002,0.18395
+08116,Esslingen,2003,0.18642
+08116,Esslingen,2004,0.13746
+08116,Esslingen,2005,0.08163
+08116,Esslingen,2006,0.11756
+08116,Esslingen,2007,0.10933
+08116,Esslingen,2008,0.1263
+08116,Esslingen,2009,0.16384
+08116,Esslingen,2010,0.15058
+08116,Esslingen,2011,0.16713
+08116,Esslingen,2012,0.24225
+08116,Esslingen,2013,0.28735
+08116,Esslingen,2014,0.25953
+08116,Esslingen,2015,0.21728
+08116,Esslingen,2016,0.23292
+08116,Esslingen,2017,0.16621
+08116,Esslingen,2018,0.22657
+08116,Esslingen,2019,0.17457
+08116,Esslingen,2020,0.18827
+08116,Esslingen,2021,0.22272
+08117,Göppingen,1998,0.52683
+08117,Göppingen,1999,0.4154
+08117,Göppingen,2000,0.49786
+08117,Göppingen,2001,0.57216
+08117,Göppingen,2002,0.58497
+08117,Göppingen,2003,0.55486
+08117,Göppingen,2004,0.51464
+08117,Göppingen,2005,0.49569
+08117,Göppingen,2006,0.5101
+08117,Göppingen,2007,0.54416
+08117,Göppingen,2008,0.53995
+08117,Göppingen,2009,0.57556
+08117,Göppingen,2010,0.53384
+08117,Göppingen,2011,0.52392
+08117,Göppingen,2012,0.57844
+08117,Göppingen,2013,0.59923
+08117,Göppingen,2014,0.56033
+08117,Göppingen,2015,0.54502
+08117,Göppingen,2016,0.53854
+08117,Göppingen,2017,0.52978
+08117,Göppingen,2018,0.54168
+08117,Göppingen,2019,0.5137
+08117,Göppingen,2020,0.53481
+08117,Göppingen,2021,0.51084
+08118,Ludwigsburg,1998,0.12405
+08118,Ludwigsburg,1999,0.13033
+08118,Ludwigsburg,2000,0.19045
+08118,Ludwigsburg,2001,0.23514
+08118,Ludwigsburg,2002,0.25428
+08118,Ludwigsburg,2003,0.21581
+08118,Ludwigsburg,2004,0.18261
+08118,Ludwigsburg,2005,0.13558
+08118,Ludwigsburg,2006,0.16932
+08118,Ludwigsburg,2007,0.18248
+08118,Ludwigsburg,2008,0.20542
+08118,Ludwigsburg,2009,0.23014
+08118,Ludwigsburg,2010,0.22549
+08118,Ludwigsburg,2011,0.20976
+08118,Ludwigsburg,2012,0.27317
+08118,Ludwigsburg,2013,0.33328
+08118,Ludwigsburg,2014,0.29817
+08118,Ludwigsburg,2015,0.23757
+08118,Ludwigsburg,2016,0.20572
+08118,Ludwigsburg,2017,0.17593
+08118,Ludwigsburg,2018,0.19511
+08118,Ludwigsburg,2019,0.14133
+08118,Ludwigsburg,2020,0.19312000000000001
+08118,Ludwigsburg,2021,0.18734
+08119,Rems-Murr-Kreis,1998,0.32709
+08119,Rems-Murr-Kreis,1999,0.33646
+08119,Rems-Murr-Kreis,2000,0.35426
+08119,Rems-Murr-Kreis,2001,0.34675
+08119,Rems-Murr-Kreis,2002,0.35949
+08119,Rems-Murr-Kreis,2003,0.35016
+08119,Rems-Murr-Kreis,2004,0.31301
+08119,Rems-Murr-Kreis,2005,0.28558
+08119,Rems-Murr-Kreis,2006,0.3627
+08119,Rems-Murr-Kreis,2007,0.35074
+08119,Rems-Murr-Kreis,2008,0.34332
+08119,Rems-Murr-Kreis,2009,0.3582
+08119,Rems-Murr-Kreis,2010,0.32959
+08119,Rems-Murr-Kreis,2011,0.36669
+08119,Rems-Murr-Kreis,2012,0.43036
+08119,Rems-Murr-Kreis,2013,0.47542
+08119,Rems-Murr-Kreis,2014,0.43302
+08119,Rems-Murr-Kreis,2015,0.42547
+08119,Rems-Murr-Kreis,2016,0.4238
+08119,Rems-Murr-Kreis,2017,0.386
+08119,Rems-Murr-Kreis,2018,0.39684
+08119,Rems-Murr-Kreis,2019,0.37265
+08119,Rems-Murr-Kreis,2020,0.39913
+08119,Rems-Murr-Kreis,2021,0.39079
+08121,"Heilbronn, Stadtkreis",1998,0.7284
+08121,"Heilbronn, Stadtkreis",1999,0.68092
+08121,"Heilbronn, Stadtkreis",2000,1
+08121,"Heilbronn, Stadtkreis",2001,0.92522
+08121,"Heilbronn, Stadtkreis",2002,0.96666
+08121,"Heilbronn, Stadtkreis",2003,0.87709
+08121,"Heilbronn, Stadtkreis",2004,0.74451
+08121,"Heilbronn, Stadtkreis",2005,0.71062
+08121,"Heilbronn, Stadtkreis",2006,0.7057
+08121,"Heilbronn, Stadtkreis",2007,0.66296
+08121,"Heilbronn, Stadtkreis",2008,0.57197
+08121,"Heilbronn, Stadtkreis",2009,0.53755
+08121,"Heilbronn, Stadtkreis",2010,0.49095
+08121,"Heilbronn, Stadtkreis",2011,0.49576
+08121,"Heilbronn, Stadtkreis",2012,0.58106
+08121,"Heilbronn, Stadtkreis",2013,0.62707
+08121,"Heilbronn, Stadtkreis",2014,0.63686
+08121,"Heilbronn, Stadtkreis",2015,0.47971
+08121,"Heilbronn, Stadtkreis",2016,0.45585
+08121,"Heilbronn, Stadtkreis",2017,0.53487
+08121,"Heilbronn, Stadtkreis",2018,0.65031
+08121,"Heilbronn, Stadtkreis",2019,0.54343
+08121,"Heilbronn, Stadtkreis",2020,0.54936
+08121,"Heilbronn, Stadtkreis",2021,0.52104
+08125,Heilbronn,1998,0.2326
+08125,Heilbronn,1999,0.24052
+08125,Heilbronn,2000,0.35681
+08125,Heilbronn,2001,0.41294
+08125,Heilbronn,2002,0.40323
+08125,Heilbronn,2003,0.40351
+08125,Heilbronn,2004,0.42589
+08125,Heilbronn,2005,0.36586
+08125,Heilbronn,2006,0.36553
+08125,Heilbronn,2007,0.36429
+08125,Heilbronn,2008,0.31694
+08125,Heilbronn,2009,0.38619
+08125,Heilbronn,2010,0.33779
+08125,Heilbronn,2011,0.29818
+08125,Heilbronn,2012,0.35077
+08125,Heilbronn,2013,0.38521
+08125,Heilbronn,2014,0.35096
+08125,Heilbronn,2015,0.31222
+08125,Heilbronn,2016,0.30811
+08125,Heilbronn,2017,0.2736
+08125,Heilbronn,2018,0.30085
+08125,Heilbronn,2019,0.25884
+08125,Heilbronn,2020,0.29896
+08125,Heilbronn,2021,0.32557
+08126,Hohenlohekreis,1998,0.42029
+08126,Hohenlohekreis,1999,0.42521
+08126,Hohenlohekreis,2000,0.56566
+08126,Hohenlohekreis,2001,0.65159
+08126,Hohenlohekreis,2002,0.60548
+08126,Hohenlohekreis,2003,0.56634
+08126,Hohenlohekreis,2004,0.59926
+08126,Hohenlohekreis,2005,0.4854
+08126,Hohenlohekreis,2006,0.52141
+08126,Hohenlohekreis,2007,0.52967
+08126,Hohenlohekreis,2008,0.54668
+08126,Hohenlohekreis,2009,0.61466
+08126,Hohenlohekreis,2010,0.51517
+08126,Hohenlohekreis,2011,0.47218
+08126,Hohenlohekreis,2012,0.51796
+08126,Hohenlohekreis,2013,0.54165
+08126,Hohenlohekreis,2014,0.49131
+08126,Hohenlohekreis,2015,0.44922
+08126,Hohenlohekreis,2016,0.43183
+08126,Hohenlohekreis,2017,0.33113
+08126,Hohenlohekreis,2018,0.42283
+08126,Hohenlohekreis,2019,0.36882
+08126,Hohenlohekreis,2020,0.36001
+08126,Hohenlohekreis,2021,0.38606
+08127,Schwäbisch Hall,1998,0.5324
+08127,Schwäbisch Hall,1999,0.62423
+08127,Schwäbisch Hall,2000,0.66927
+08127,Schwäbisch Hall,2001,0.78158
+08127,Schwäbisch Hall,2002,0.78704
+08127,Schwäbisch Hall,2003,0.70788
+08127,Schwäbisch Hall,2004,0.71519
+08127,Schwäbisch Hall,2005,0.71447
+08127,Schwäbisch Hall,2006,0.72746
+08127,Schwäbisch Hall,2007,0.72318
+08127,Schwäbisch Hall,2008,0.69583
+08127,Schwäbisch Hall,2009,0.72025
+08127,Schwäbisch Hall,2010,0.66384
+08127,Schwäbisch Hall,2011,0.66907
+08127,Schwäbisch Hall,2012,0.59617
+08127,Schwäbisch Hall,2013,0.61551
+08127,Schwäbisch Hall,2014,0.56212
+08127,Schwäbisch Hall,2015,0.55958
+08127,Schwäbisch Hall,2016,0.52858
+08127,Schwäbisch Hall,2017,0.48657
+08127,Schwäbisch Hall,2018,0.55474
+08127,Schwäbisch Hall,2019,0.49925
+08127,Schwäbisch Hall,2020,0.48572
+08127,Schwäbisch Hall,2021,0.50194
+08128,Main-Tauber-Kreis,1998,0.54815
+08128,Main-Tauber-Kreis,1999,0.47051
+08128,Main-Tauber-Kreis,2000,0.54431
+08128,Main-Tauber-Kreis,2001,0.63108
+08128,Main-Tauber-Kreis,2002,0.64171
+08128,Main-Tauber-Kreis,2003,0.61386
+08128,Main-Tauber-Kreis,2004,0.6067
+08128,Main-Tauber-Kreis,2005,0.55437
+08128,Main-Tauber-Kreis,2006,0.54701
+08128,Main-Tauber-Kreis,2007,0.59267
+08128,Main-Tauber-Kreis,2008,0.55186
+08128,Main-Tauber-Kreis,2009,0.56626
+08128,Main-Tauber-Kreis,2010,0.52368
+08128,Main-Tauber-Kreis,2011,0.50963
+08128,Main-Tauber-Kreis,2012,0.56271
+08128,Main-Tauber-Kreis,2013,0.60968
+08128,Main-Tauber-Kreis,2014,0.56092
+08128,Main-Tauber-Kreis,2015,0.54723
+08128,Main-Tauber-Kreis,2016,0.51244
+08128,Main-Tauber-Kreis,2017,0.48668
+08128,Main-Tauber-Kreis,2018,0.51786
+08128,Main-Tauber-Kreis,2019,0.45548
+08128,Main-Tauber-Kreis,2020,0.47204
+08128,Main-Tauber-Kreis,2021,0.48226
+08135,Heidenheim,1998,0.48111
+08135,Heidenheim,1999,0.50837
+08135,Heidenheim,2000,0.58077
+08135,Heidenheim,2001,0.59037
+08135,Heidenheim,2002,0.64806
+08135,Heidenheim,2003,0.58825
+08135,Heidenheim,2004,0.57126
+08135,Heidenheim,2005,0.53624
+08135,Heidenheim,2006,0.53296
+08135,Heidenheim,2007,0.556
+08135,Heidenheim,2008,0.48257
+08135,Heidenheim,2009,0.53645
+08135,Heidenheim,2010,0.49244
+08135,Heidenheim,2011,0.48821
+08135,Heidenheim,2012,0.55728
+08135,Heidenheim,2013,0.57277
+08135,Heidenheim,2014,0.56627
+08135,Heidenheim,2015,0.59352
+08135,Heidenheim,2016,0.59413
+08135,Heidenheim,2017,0.57744
+08135,Heidenheim,2018,0.58215
+08135,Heidenheim,2019,0.5004
+08135,Heidenheim,2020,0.55015
+08135,Heidenheim,2021,0.50927
+08136,Ostalbkreis,1998,0.31877
+08136,Ostalbkreis,1999,0.36511
+08136,Ostalbkreis,2000,0.46873
+08136,Ostalbkreis,2001,0.47521
+08136,Ostalbkreis,2002,0.52229
+08136,Ostalbkreis,2003,0.49612
+08136,Ostalbkreis,2004,0.49342
+08136,Ostalbkreis,2005,0.47605
+08136,Ostalbkreis,2006,0.44128
+08136,Ostalbkreis,2007,0.44089
+08136,Ostalbkreis,2008,0.42235
+08136,Ostalbkreis,2009,0.46663
+08136,Ostalbkreis,2010,0.42297
+08136,Ostalbkreis,2011,0.43985
+08136,Ostalbkreis,2012,0.45296
+08136,Ostalbkreis,2013,0.45278
+08136,Ostalbkreis,2014,0.4307
+08136,Ostalbkreis,2015,0.40243
+08136,Ostalbkreis,2016,0.41633
+08136,Ostalbkreis,2017,0.32508
+08136,Ostalbkreis,2018,0.37292
+08136,Ostalbkreis,2019,0.32073
+08136,Ostalbkreis,2020,0.3212
+08136,Ostalbkreis,2021,0.34145
+08211,"Baden-Baden, Stadtkreis",1998,0.14593
+08211,"Baden-Baden, Stadtkreis",1999,0.16795
+08211,"Baden-Baden, Stadtkreis",2000,0.16974
+08211,"Baden-Baden, Stadtkreis",2001,0.13388
+08211,"Baden-Baden, Stadtkreis",2002,0.22806
+08211,"Baden-Baden, Stadtkreis",2003,0.14162
+08211,"Baden-Baden, Stadtkreis",2004,0.19947
+08211,"Baden-Baden, Stadtkreis",2005,0.14845
+08211,"Baden-Baden, Stadtkreis",2006,0.23897
+08211,"Baden-Baden, Stadtkreis",2007,0.20359
+08211,"Baden-Baden, Stadtkreis",2008,0.18222
+08211,"Baden-Baden, Stadtkreis",2009,0.26253
+08211,"Baden-Baden, Stadtkreis",2010,0.17914
+08211,"Baden-Baden, Stadtkreis",2011,0.16124
+08211,"Baden-Baden, Stadtkreis",2012,0.27991
+08211,"Baden-Baden, Stadtkreis",2013,0.37619
+08211,"Baden-Baden, Stadtkreis",2014,0.34418
+08211,"Baden-Baden, Stadtkreis",2015,0.3299
+08211,"Baden-Baden, Stadtkreis",2016,0.38891
+08211,"Baden-Baden, Stadtkreis",2017,0.31409
+08211,"Baden-Baden, Stadtkreis",2018,0.3693
+08211,"Baden-Baden, Stadtkreis",2019,0.36062
+08211,"Baden-Baden, Stadtkreis",2020,0.34782
+08211,"Baden-Baden, Stadtkreis",2021,0.32511
+08212,"Karlsruhe, Stadtkreis",1998,0.26733
+08212,"Karlsruhe, Stadtkreis",1999,0.30244
+08212,"Karlsruhe, Stadtkreis",2000,0.35253
+08212,"Karlsruhe, Stadtkreis",2001,0.28608
+08212,"Karlsruhe, Stadtkreis",2002,0.33793
+08212,"Karlsruhe, Stadtkreis",2003,0.30599
+08212,"Karlsruhe, Stadtkreis",2004,0.28359
+08212,"Karlsruhe, Stadtkreis",2005,0.25474
+08212,"Karlsruhe, Stadtkreis",2006,0.31935
+08212,"Karlsruhe, Stadtkreis",2007,0.30831
+08212,"Karlsruhe, Stadtkreis",2008,0.3071
+08212,"Karlsruhe, Stadtkreis",2009,0.31169
+08212,"Karlsruhe, Stadtkreis",2010,0.31153
+08212,"Karlsruhe, Stadtkreis",2011,0.34989
+08212,"Karlsruhe, Stadtkreis",2012,0.36333
+08212,"Karlsruhe, Stadtkreis",2013,0.40374
+08212,"Karlsruhe, Stadtkreis",2014,0.39258
+08212,"Karlsruhe, Stadtkreis",2015,0.35906
+08212,"Karlsruhe, Stadtkreis",2016,0.31327
+08212,"Karlsruhe, Stadtkreis",2017,0.27495000000000003
+08212,"Karlsruhe, Stadtkreis",2018,0.30269
+08212,"Karlsruhe, Stadtkreis",2019,0.24628
+08212,"Karlsruhe, Stadtkreis",2020,0.26656
+08212,"Karlsruhe, Stadtkreis",2021,0.24276
+08215,Karlsruhe,1998,0.25141
+08215,Karlsruhe,1999,0.26636
+08215,Karlsruhe,2000,0.34764
+08215,Karlsruhe,2001,0.32836
+08215,Karlsruhe,2002,0.29286
+08215,Karlsruhe,2003,0.36687
+08215,Karlsruhe,2004,0.32605
+08215,Karlsruhe,2005,0.28883
+08215,Karlsruhe,2006,0.32825
+08215,Karlsruhe,2007,0.35655
+08215,Karlsruhe,2008,0.33468
+08215,Karlsruhe,2009,0.3705
+08215,Karlsruhe,2010,0.33209
+08215,Karlsruhe,2011,0.34151
+08215,Karlsruhe,2012,0.40077
+08215,Karlsruhe,2013,0.41129
+08215,Karlsruhe,2014,0.38699
+08215,Karlsruhe,2015,0.36683
+08215,Karlsruhe,2016,0.35881
+08215,Karlsruhe,2017,0.29542
+08215,Karlsruhe,2018,0.39871
+08215,Karlsruhe,2019,0.38513
+08215,Karlsruhe,2020,0.36629
+08215,Karlsruhe,2021,0.38732
+08216,Rastatt,1998,0.31352
+08216,Rastatt,1999,0.31069
+08216,Rastatt,2000,0.38064
+08216,Rastatt,2001,0.46035
+08216,Rastatt,2002,0.39962
+08216,Rastatt,2003,0.3778
+08216,Rastatt,2004,0.37794
+08216,Rastatt,2005,0.30617
+08216,Rastatt,2006,0.31566
+08216,Rastatt,2007,0.34147
+08216,Rastatt,2008,0.33581
+08216,Rastatt,2009,0.41582
+08216,Rastatt,2010,0.35178
+08216,Rastatt,2011,0.38773
+08216,Rastatt,2012,0.48888
+08216,Rastatt,2013,0.53878
+08216,Rastatt,2014,0.50116
+08216,Rastatt,2015,0.43982
+08216,Rastatt,2016,0.43584
+08216,Rastatt,2017,0.40423
+08216,Rastatt,2018,0.4822
+08216,Rastatt,2019,0.37857
+08216,Rastatt,2020,0.43039
+08216,Rastatt,2021,0.44177
+08221,"Heidelberg, Stadtkreis",1998,0.01802
+08221,"Heidelberg, Stadtkreis",1999,0
+08221,"Heidelberg, Stadtkreis",2000,0
+08221,"Heidelberg, Stadtkreis",2001,0
+08221,"Heidelberg, Stadtkreis",2002,0
+08221,"Heidelberg, Stadtkreis",2003,0
+08221,"Heidelberg, Stadtkreis",2004,0
+08221,"Heidelberg, Stadtkreis",2005,0
+08221,"Heidelberg, Stadtkreis",2006,0
+08221,"Heidelberg, Stadtkreis",2007,0.01203
+08221,"Heidelberg, Stadtkreis",2008,0
+08221,"Heidelberg, Stadtkreis",2009,0
+08221,"Heidelberg, Stadtkreis",2010,0
+08221,"Heidelberg, Stadtkreis",2011,0
+08221,"Heidelberg, Stadtkreis",2012,0
+08221,"Heidelberg, Stadtkreis",2013,0
+08221,"Heidelberg, Stadtkreis",2014,0
+08221,"Heidelberg, Stadtkreis",2015,0
+08221,"Heidelberg, Stadtkreis",2016,0
+08221,"Heidelberg, Stadtkreis",2017,0.02583
+08221,"Heidelberg, Stadtkreis",2018,0
+08221,"Heidelberg, Stadtkreis",2019,0
+08221,"Heidelberg, Stadtkreis",2020,0
+08221,"Heidelberg, Stadtkreis",2021,0
+08222,"Mannheim, Stadtkreis",1998,0.65542
+08222,"Mannheim, Stadtkreis",1999,0.77581
+08222,"Mannheim, Stadtkreis",2000,0.82891
+08222,"Mannheim, Stadtkreis",2001,0.89628
+08222,"Mannheim, Stadtkreis",2002,0.82095
+08222,"Mannheim, Stadtkreis",2003,0.77184
+08222,"Mannheim, Stadtkreis",2004,0.80638
+08222,"Mannheim, Stadtkreis",2005,0.79145
+08222,"Mannheim, Stadtkreis",2006,0.79202
+08222,"Mannheim, Stadtkreis",2007,0.81493
+08222,"Mannheim, Stadtkreis",2008,0.74913
+08222,"Mannheim, Stadtkreis",2009,0.73649
+08222,"Mannheim, Stadtkreis",2010,0.64511
+08222,"Mannheim, Stadtkreis",2011,0.64776
+08222,"Mannheim, Stadtkreis",2012,0.60768
+08222,"Mannheim, Stadtkreis",2013,0.6539
+08222,"Mannheim, Stadtkreis",2014,0.64867
+08222,"Mannheim, Stadtkreis",2015,0.60288
+08222,"Mannheim, Stadtkreis",2016,0.5829
+08222,"Mannheim, Stadtkreis",2017,0.54454
+08222,"Mannheim, Stadtkreis",2018,0.59829
+08222,"Mannheim, Stadtkreis",2019,0.56849
+08222,"Mannheim, Stadtkreis",2020,0.56398
+08222,"Mannheim, Stadtkreis",2021,0.5708
+08225,Neckar-Odenwald-Kreis,1998,0.72749
+08225,Neckar-Odenwald-Kreis,1999,0.67294
+08225,Neckar-Odenwald-Kreis,2000,0.84463
+08225,Neckar-Odenwald-Kreis,2001,0.89423
+08225,Neckar-Odenwald-Kreis,2002,0.86042
+08225,Neckar-Odenwald-Kreis,2003,0.82642
+08225,Neckar-Odenwald-Kreis,2004,0.81968
+08225,Neckar-Odenwald-Kreis,2005,0.8315
+08225,Neckar-Odenwald-Kreis,2006,0.8341
+08225,Neckar-Odenwald-Kreis,2007,0.88459
+08225,Neckar-Odenwald-Kreis,2008,0.84899
+08225,Neckar-Odenwald-Kreis,2009,0.85408
+08225,Neckar-Odenwald-Kreis,2010,0.72109
+08225,Neckar-Odenwald-Kreis,2011,0.84366
+08225,Neckar-Odenwald-Kreis,2012,0.77991
+08225,Neckar-Odenwald-Kreis,2013,0.74329
+08225,Neckar-Odenwald-Kreis,2014,0.76401
+08225,Neckar-Odenwald-Kreis,2015,0.71641
+08225,Neckar-Odenwald-Kreis,2016,0.72936
+08225,Neckar-Odenwald-Kreis,2017,0.65726
+08225,Neckar-Odenwald-Kreis,2018,0.75237
+08225,Neckar-Odenwald-Kreis,2019,0.66279
+08225,Neckar-Odenwald-Kreis,2020,0.67275
+08225,Neckar-Odenwald-Kreis,2021,0.6726
+08226,Rhein-Neckar-Kreis,1998,0.23364
+08226,Rhein-Neckar-Kreis,1999,0.25342
+08226,Rhein-Neckar-Kreis,2000,0.30569
+08226,Rhein-Neckar-Kreis,2001,0.30424
+08226,Rhein-Neckar-Kreis,2002,0.2855
+08226,Rhein-Neckar-Kreis,2003,0.28967
+08226,Rhein-Neckar-Kreis,2004,0.25607
+08226,Rhein-Neckar-Kreis,2005,0.23099
+08226,Rhein-Neckar-Kreis,2006,0.24267
+08226,Rhein-Neckar-Kreis,2007,0.2674
+08226,Rhein-Neckar-Kreis,2008,0.25328
+08226,Rhein-Neckar-Kreis,2009,0.29562
+08226,Rhein-Neckar-Kreis,2010,0.28663
+08226,Rhein-Neckar-Kreis,2011,0.28126
+08226,Rhein-Neckar-Kreis,2012,0.33105
+08226,Rhein-Neckar-Kreis,2013,0.3801
+08226,Rhein-Neckar-Kreis,2014,0.3819
+08226,Rhein-Neckar-Kreis,2015,0.32816
+08226,Rhein-Neckar-Kreis,2016,0.33902
+08226,Rhein-Neckar-Kreis,2017,0.26486
+08226,Rhein-Neckar-Kreis,2018,0.35426
+08226,Rhein-Neckar-Kreis,2019,0.25816
+08226,Rhein-Neckar-Kreis,2020,0.27011
+08226,Rhein-Neckar-Kreis,2021,0.28075
+08231,"Pforzheim, Stadtkreis",1998,1
+08231,"Pforzheim, Stadtkreis",1999,1
+08231,"Pforzheim, Stadtkreis",2000,0.95499
+08231,"Pforzheim, Stadtkreis",2001,0.91145
+08231,"Pforzheim, Stadtkreis",2002,0.97765
+08231,"Pforzheim, Stadtkreis",2003,1
+08231,"Pforzheim, Stadtkreis",2004,1
+08231,"Pforzheim, Stadtkreis",2005,1
+08231,"Pforzheim, Stadtkreis",2006,1
+08231,"Pforzheim, Stadtkreis",2007,1
+08231,"Pforzheim, Stadtkreis",2008,1
+08231,"Pforzheim, Stadtkreis",2009,1
+08231,"Pforzheim, Stadtkreis",2010,1
+08231,"Pforzheim, Stadtkreis",2011,1
+08231,"Pforzheim, Stadtkreis",2012,1
+08231,"Pforzheim, Stadtkreis",2013,1
+08231,"Pforzheim, Stadtkreis",2014,1
+08231,"Pforzheim, Stadtkreis",2015,1
+08231,"Pforzheim, Stadtkreis",2016,1
+08231,"Pforzheim, Stadtkreis",2017,1
+08231,"Pforzheim, Stadtkreis",2018,1
+08231,"Pforzheim, Stadtkreis",2019,1
+08231,"Pforzheim, Stadtkreis",2020,1
+08231,"Pforzheim, Stadtkreis",2021,1
+08235,Calw,1998,0.51609
+08235,Calw,1999,0.54561
+08235,Calw,2000,0.62868
+08235,Calw,2001,0.61757
+08235,Calw,2002,0.69347
+08235,Calw,2003,0.63446
+08235,Calw,2004,0.61759
+08235,Calw,2005,0.59016
+08235,Calw,2006,0.6343
+08235,Calw,2007,0.56264
+08235,Calw,2008,0.57962
+08235,Calw,2009,0.60953
+08235,Calw,2010,0.53709
+08235,Calw,2011,0.53652
+08235,Calw,2012,0.58802
+08235,Calw,2013,0.63007
+08235,Calw,2014,0.6258
+08235,Calw,2015,0.59108
+08235,Calw,2016,0.56041
+08235,Calw,2017,0.55311
+08235,Calw,2018,0.57348
+08235,Calw,2019,0.52064
+08235,Calw,2020,0.48839
+08235,Calw,2021,0.52249
+08236,Enzkreis,1998,0.21268
+08236,Enzkreis,1999,0.21032
+08236,Enzkreis,2000,0.27649
+08236,Enzkreis,2001,0.30414
+08236,Enzkreis,2002,0.31937
+08236,Enzkreis,2003,0.29713
+08236,Enzkreis,2004,0.27477
+08236,Enzkreis,2005,0.23736
+08236,Enzkreis,2006,0.25203
+08236,Enzkreis,2007,0.24685000000000001
+08236,Enzkreis,2008,0.32975
+08236,Enzkreis,2009,0.29703
+08236,Enzkreis,2010,0.31173
+08236,Enzkreis,2011,0.28989
+08236,Enzkreis,2012,0.37748
+08236,Enzkreis,2013,0.42692
+08236,Enzkreis,2014,0.35671
+08236,Enzkreis,2015,0.35377
+08236,Enzkreis,2016,0.37066
+08236,Enzkreis,2017,0.44224
+08236,Enzkreis,2018,0.41785
+08236,Enzkreis,2019,0.36791
+08236,Enzkreis,2020,0.36681
+08236,Enzkreis,2021,0.3723
+08237,Freudenstadt,1998,0.44382
+08237,Freudenstadt,1999,0.44839
+08237,Freudenstadt,2000,0.54212
+08237,Freudenstadt,2001,0.60904
+08237,Freudenstadt,2002,0.65315
+08237,Freudenstadt,2003,0.60188
+08237,Freudenstadt,2004,0.61946
+08237,Freudenstadt,2005,0.73596
+08237,Freudenstadt,2006,0.67743
+08237,Freudenstadt,2007,0.58739
+08237,Freudenstadt,2008,0.61381
+08237,Freudenstadt,2009,0.63087
+08237,Freudenstadt,2010,0.55231
+08237,Freudenstadt,2011,0.54985
+08237,Freudenstadt,2012,0.57645
+08237,Freudenstadt,2013,0.64719
+08237,Freudenstadt,2014,0.56407
+08237,Freudenstadt,2015,0.52812
+08237,Freudenstadt,2016,0.55086
+08237,Freudenstadt,2017,0.45263
+08237,Freudenstadt,2018,0.51664
+08237,Freudenstadt,2019,0.48021
+08237,Freudenstadt,2020,0.52725
+08237,Freudenstadt,2021,0.53356
+08311,"Freiburg im Breisgau, Stadtkreis",1998,0.3638
+08311,"Freiburg im Breisgau, Stadtkreis",1999,0.4545
+08311,"Freiburg im Breisgau, Stadtkreis",2000,0.45949
+08311,"Freiburg im Breisgau, Stadtkreis",2001,0.51915
+08311,"Freiburg im Breisgau, Stadtkreis",2002,0.45654
+08311,"Freiburg im Breisgau, Stadtkreis",2003,0.43568
+08311,"Freiburg im Breisgau, Stadtkreis",2004,0.48357
+08311,"Freiburg im Breisgau, Stadtkreis",2005,0.4986
+08311,"Freiburg im Breisgau, Stadtkreis",2006,0.50391
+08311,"Freiburg im Breisgau, Stadtkreis",2007,0.56452
+08311,"Freiburg im Breisgau, Stadtkreis",2008,0.50111000000000006
+08311,"Freiburg im Breisgau, Stadtkreis",2009,0.49891
+08311,"Freiburg im Breisgau, Stadtkreis",2010,0.42041
+08311,"Freiburg im Breisgau, Stadtkreis",2011,0.43097
+08311,"Freiburg im Breisgau, Stadtkreis",2012,0.43253
+08311,"Freiburg im Breisgau, Stadtkreis",2013,0.47001
+08311,"Freiburg im Breisgau, Stadtkreis",2014,0.43153
+08311,"Freiburg im Breisgau, Stadtkreis",2015,0.4133
+08311,"Freiburg im Breisgau, Stadtkreis",2016,0.42197
+08311,"Freiburg im Breisgau, Stadtkreis",2017,0.43342
+08311,"Freiburg im Breisgau, Stadtkreis",2018,0.37891
+08311,"Freiburg im Breisgau, Stadtkreis",2019,0.38062
+08311,"Freiburg im Breisgau, Stadtkreis",2020,0.34029
+08311,"Freiburg im Breisgau, Stadtkreis",2021,0.36157
+08315,Breisgau-Hochschwarzwald,1998,0.39116
+08315,Breisgau-Hochschwarzwald,1999,0.40514
+08315,Breisgau-Hochschwarzwald,2000,0.46992
+08315,Breisgau-Hochschwarzwald,2001,0.48186
+08315,Breisgau-Hochschwarzwald,2002,0.49884
+08315,Breisgau-Hochschwarzwald,2003,0.46008
+08315,Breisgau-Hochschwarzwald,2004,0.40601
+08315,Breisgau-Hochschwarzwald,2005,0.37175
+08315,Breisgau-Hochschwarzwald,2006,0.44146
+08315,Breisgau-Hochschwarzwald,2007,0.5061
+08315,Breisgau-Hochschwarzwald,2008,0.45685
+08315,Breisgau-Hochschwarzwald,2009,0.4847
+08315,Breisgau-Hochschwarzwald,2010,0.45698
+08315,Breisgau-Hochschwarzwald,2011,0.45316
+08315,Breisgau-Hochschwarzwald,2012,0.54256
+08315,Breisgau-Hochschwarzwald,2013,0.55996
+08315,Breisgau-Hochschwarzwald,2014,0.50281
+08315,Breisgau-Hochschwarzwald,2015,0.50302
+08315,Breisgau-Hochschwarzwald,2016,0.48068
+08315,Breisgau-Hochschwarzwald,2017,0.4807
+08315,Breisgau-Hochschwarzwald,2018,0.48179
+08315,Breisgau-Hochschwarzwald,2019,0.43425
+08315,Breisgau-Hochschwarzwald,2020,0.44487
+08315,Breisgau-Hochschwarzwald,2021,0.41851
+08316,Emmendingen,1998,0.44229
+08316,Emmendingen,1999,0.52222
+08316,Emmendingen,2000,0.52364
+08316,Emmendingen,2001,0.57131
+08316,Emmendingen,2002,0.55346
+08316,Emmendingen,2003,0.53893
+08316,Emmendingen,2004,0.58767
+08316,Emmendingen,2005,0.54386
+08316,Emmendingen,2006,0.55224
+08316,Emmendingen,2007,0.6028
+08316,Emmendingen,2008,0.55152
+08316,Emmendingen,2009,0.61009
+08316,Emmendingen,2010,0.54197
+08316,Emmendingen,2011,0.61409
+08316,Emmendingen,2012,0.60136
+08316,Emmendingen,2013,0.63463
+08316,Emmendingen,2014,0.59678
+08316,Emmendingen,2015,0.5353
+08316,Emmendingen,2016,0.54672
+08316,Emmendingen,2017,0.48985
+08316,Emmendingen,2018,0.56125
+08316,Emmendingen,2019,0.48416
+08316,Emmendingen,2020,0.50175
+08316,Emmendingen,2021,0.48431
+08317,Ortenaukreis,1998,0.54448
+08317,Ortenaukreis,1999,0.57899
+08317,Ortenaukreis,2000,0.63798
+08317,Ortenaukreis,2001,0.70289
+08317,Ortenaukreis,2002,0.72302
+08317,Ortenaukreis,2003,0.66571
+08317,Ortenaukreis,2004,0.64474
+08317,Ortenaukreis,2005,0.62267
+08317,Ortenaukreis,2006,0.64731
+08317,Ortenaukreis,2007,0.64972
+08317,Ortenaukreis,2008,0.63397
+08317,Ortenaukreis,2009,0.65973
+08317,Ortenaukreis,2010,0.61416
+08317,Ortenaukreis,2011,0.6094
+08317,Ortenaukreis,2012,0.62606
+08317,Ortenaukreis,2013,0.65236
+08317,Ortenaukreis,2014,0.62591
+08317,Ortenaukreis,2015,0.589
+08317,Ortenaukreis,2016,0.5446
+08317,Ortenaukreis,2017,0.52779
+08317,Ortenaukreis,2018,0.56705
+08317,Ortenaukreis,2019,0.53901
+08317,Ortenaukreis,2020,0.55411
+08317,Ortenaukreis,2021,0.55596
+08325,Rottweil,1998,0.4926
+08325,Rottweil,1999,0.53334
+08325,Rottweil,2000,0.62629
+08325,Rottweil,2001,0.72515
+08325,Rottweil,2002,0.70197
+08325,Rottweil,2003,0.60509
+08325,Rottweil,2004,0.63125
+08325,Rottweil,2005,0.55503
+08325,Rottweil,2006,0.59444
+08325,Rottweil,2007,0.60044
+08325,Rottweil,2008,0.56075
+08325,Rottweil,2009,0.61864
+08325,Rottweil,2010,0.56833
+08325,Rottweil,2011,0.54119
+08325,Rottweil,2012,0.6159
+08325,Rottweil,2013,0.62491
+08325,Rottweil,2014,0.6596
+08325,Rottweil,2015,0.53885
+08325,Rottweil,2016,0.5544
+08325,Rottweil,2017,0.50169
+08325,Rottweil,2018,0.53164
+08325,Rottweil,2019,0.46738
+08325,Rottweil,2020,0.47413
+08325,Rottweil,2021,0.48244
+08326,Schwarzwald-Baar-Kreis,1998,0.58674
+08326,Schwarzwald-Baar-Kreis,1999,0.56531
+08326,Schwarzwald-Baar-Kreis,2000,0.67347
+08326,Schwarzwald-Baar-Kreis,2001,0.63955
+08326,Schwarzwald-Baar-Kreis,2002,0.7171
+08326,Schwarzwald-Baar-Kreis,2003,0.67659
+08326,Schwarzwald-Baar-Kreis,2004,0.68826
+08326,Schwarzwald-Baar-Kreis,2005,0.64807
+08326,Schwarzwald-Baar-Kreis,2006,0.63378
+08326,Schwarzwald-Baar-Kreis,2007,0.64635
+08326,Schwarzwald-Baar-Kreis,2008,0.62478
+08326,Schwarzwald-Baar-Kreis,2009,0.64898
+08326,Schwarzwald-Baar-Kreis,2010,0.62638
+08326,Schwarzwald-Baar-Kreis,2011,0.61421
+08326,Schwarzwald-Baar-Kreis,2012,0.6519
+08326,Schwarzwald-Baar-Kreis,2013,0.73382
+08326,Schwarzwald-Baar-Kreis,2014,0.67416
+08326,Schwarzwald-Baar-Kreis,2015,0.62253
+08326,Schwarzwald-Baar-Kreis,2016,0.60021
+08326,Schwarzwald-Baar-Kreis,2017,0.62948
+08326,Schwarzwald-Baar-Kreis,2018,0.58812
+08326,Schwarzwald-Baar-Kreis,2019,0.55516
+08326,Schwarzwald-Baar-Kreis,2020,0.55154
+08326,Schwarzwald-Baar-Kreis,2021,0.56614
+08327,Tuttlingen,1998,0.68206
+08327,Tuttlingen,1999,0.68355
+08327,Tuttlingen,2000,0.81141
+08327,Tuttlingen,2001,0.8676
+08327,Tuttlingen,2002,0.87918
+08327,Tuttlingen,2003,0.83345
+08327,Tuttlingen,2004,0.87329
+08327,Tuttlingen,2005,0.91867
+08327,Tuttlingen,2006,0.79225
+08327,Tuttlingen,2007,0.80906
+08327,Tuttlingen,2008,0.76306
+08327,Tuttlingen,2009,0.75429
+08327,Tuttlingen,2010,0.69961
+08327,Tuttlingen,2011,0.73265
+08327,Tuttlingen,2012,0.68308
+08327,Tuttlingen,2013,0.74019
+08327,Tuttlingen,2014,0.69271
+08327,Tuttlingen,2015,0.64346
+08327,Tuttlingen,2016,0.65201
+08327,Tuttlingen,2017,0.61771
+08327,Tuttlingen,2018,0.6473
+08327,Tuttlingen,2019,0.57345
+08327,Tuttlingen,2020,0.58642
+08327,Tuttlingen,2021,0.61107
+08335,Konstanz,1998,0.62244
+08335,Konstanz,1999,0.65224
+08335,Konstanz,2000,0.72453
+08335,Konstanz,2001,0.75536
+08335,Konstanz,2002,0.74009
+08335,Konstanz,2003,0.67721
+08335,Konstanz,2004,0.64919
+08335,Konstanz,2005,0.60524
+08335,Konstanz,2006,0.65169
+08335,Konstanz,2007,0.7298
+08335,Konstanz,2008,0.66979
+08335,Konstanz,2009,0.68311
+08335,Konstanz,2010,0.61747
+08335,Konstanz,2011,0.62641
+08335,Konstanz,2012,0.6511
+08335,Konstanz,2013,0.68283
+08335,Konstanz,2014,0.67875
+08335,Konstanz,2015,0.61793
+08335,Konstanz,2016,0.58147
+08335,Konstanz,2017,0.57066
+08335,Konstanz,2018,0.58693
+08335,Konstanz,2019,0.56356
+08335,Konstanz,2020,0.57861
+08335,Konstanz,2021,0.53833
+08336,Lörrach,1998,0.69806
+08336,Lörrach,1999,0.74698
+08336,Lörrach,2000,0.80561
+08336,Lörrach,2001,0.87102
+08336,Lörrach,2002,0.8006
+08336,Lörrach,2003,0.70309
+08336,Lörrach,2004,0.76602
+08336,Lörrach,2005,0.68379
+08336,Lörrach,2006,0.71908
+08336,Lörrach,2007,0.80815
+08336,Lörrach,2008,0.75549
+08336,Lörrach,2009,0.7745
+08336,Lörrach,2010,0.69713
+08336,Lörrach,2011,0.73788
+08336,Lörrach,2012,0.74674
+08336,Lörrach,2013,0.71508
+08336,Lörrach,2014,0.76905
+08336,Lörrach,2015,0.65341
+08336,Lörrach,2016,0.64458
+08336,Lörrach,2017,0.62599
+08336,Lörrach,2018,0.6885
+08336,Lörrach,2019,0.62692
+08336,Lörrach,2020,0.63064
+08336,Lörrach,2021,0.62094
+08337,Waldshut,1998,0.8738
+08337,Waldshut,1999,0.92551
+08337,Waldshut,2000,0.9738
+08337,Waldshut,2001,1
+08337,Waldshut,2002,0.93453
+08337,Waldshut,2003,0.91277
+08337,Waldshut,2004,0.92686
+08337,Waldshut,2005,0.95583
+08337,Waldshut,2006,0.91676
+08337,Waldshut,2007,0.96584
+08337,Waldshut,2008,0.97269
+08337,Waldshut,2009,0.93252
+08337,Waldshut,2010,0.85115
+08337,Waldshut,2011,0.89505
+08337,Waldshut,2012,0.87504
+08337,Waldshut,2013,0.8841
+08337,Waldshut,2014,0.8856
+08337,Waldshut,2015,0.79382
+08337,Waldshut,2016,0.77616
+08337,Waldshut,2017,0.80689
+08337,Waldshut,2018,0.83271
+08337,Waldshut,2019,0.80029
+08337,Waldshut,2020,0.77407
+08337,Waldshut,2021,0.75864
+08415,Reutlingen,1998,0.4149
+08415,Reutlingen,1999,0.4193
+08415,Reutlingen,2000,0.51196
+08415,Reutlingen,2001,0.47189
+08415,Reutlingen,2002,0.50273
+08415,Reutlingen,2003,0.47362
+08415,Reutlingen,2004,0.445
+08415,Reutlingen,2005,0.40214
+08415,Reutlingen,2006,0.45837
+08415,Reutlingen,2007,0.45639
+08415,Reutlingen,2008,0.45112
+08415,Reutlingen,2009,0.48621
+08415,Reutlingen,2010,0.44409
+08415,Reutlingen,2011,0.42692
+08415,Reutlingen,2012,0.45684
+08415,Reutlingen,2013,0.51427
+08415,Reutlingen,2014,0.47091
+08415,Reutlingen,2015,0.42857
+08415,Reutlingen,2016,0.41137
+08415,Reutlingen,2017,0.37367
+08415,Reutlingen,2018,0.45157
+08415,Reutlingen,2019,0.40111
+08415,Reutlingen,2020,0.4193
+08415,Reutlingen,2021,0.42333
+08416,Tübingen,1998,0.23705
+08416,Tübingen,1999,0.25679
+08416,Tübingen,2000,0.37332
+08416,Tübingen,2001,0.32366
+08416,Tübingen,2002,0.35178
+08416,Tübingen,2003,0.33853
+08416,Tübingen,2004,0.31772
+08416,Tübingen,2005,0.23456
+08416,Tübingen,2006,0.27946
+08416,Tübingen,2007,0.34287
+08416,Tübingen,2008,0.29285
+08416,Tübingen,2009,0.33772
+08416,Tübingen,2010,0.27305
+08416,Tübingen,2011,0.26639
+08416,Tübingen,2012,0.34732
+08416,Tübingen,2013,0.38283
+08416,Tübingen,2014,0.30548
+08416,Tübingen,2015,0.28495
+08416,Tübingen,2016,0.27081
+08416,Tübingen,2017,0.1984
+08416,Tübingen,2018,0.24835
+08416,Tübingen,2019,0.24073
+08416,Tübingen,2020,0.25023
+08416,Tübingen,2021,0.26127
+08417,Zollernalbkreis,1998,0.68473
+08417,Zollernalbkreis,1999,0.61668
+08417,Zollernalbkreis,2000,0.65809
+08417,Zollernalbkreis,2001,0.74968
+08417,Zollernalbkreis,2002,0.8565
+08417,Zollernalbkreis,2003,0.79048
+08417,Zollernalbkreis,2004,0.81905
+08417,Zollernalbkreis,2005,0.8119
+08417,Zollernalbkreis,2006,0.78327
+08417,Zollernalbkreis,2007,0.76995
+08417,Zollernalbkreis,2008,0.70733
+08417,Zollernalbkreis,2009,0.71105
+08417,Zollernalbkreis,2010,0.69465
+08417,Zollernalbkreis,2011,0.6944
+08417,Zollernalbkreis,2012,0.66903
+08417,Zollernalbkreis,2013,0.70849
+08417,Zollernalbkreis,2014,0.67433
+08417,Zollernalbkreis,2015,0.6368
+08417,Zollernalbkreis,2016,0.61681
+08417,Zollernalbkreis,2017,0.60145
+08417,Zollernalbkreis,2018,0.58558
+08417,Zollernalbkreis,2019,0.5539
+08417,Zollernalbkreis,2020,0.55503
+08417,Zollernalbkreis,2021,0.54567
+08421,"Ulm, Stadtkreis",1998,0.25373
+08421,"Ulm, Stadtkreis",1999,0.30148
+08421,"Ulm, Stadtkreis",2000,0.33397
+08421,"Ulm, Stadtkreis",2001,0.46868
+08421,"Ulm, Stadtkreis",2002,0.41375
+08421,"Ulm, Stadtkreis",2003,0.3466
+08421,"Ulm, Stadtkreis",2004,0.36779
+08421,"Ulm, Stadtkreis",2005,0.27308
+08421,"Ulm, Stadtkreis",2006,0.36019
+08421,"Ulm, Stadtkreis",2007,0.3333
+08421,"Ulm, Stadtkreis",2008,0.28892
+08421,"Ulm, Stadtkreis",2009,0.26234
+08421,"Ulm, Stadtkreis",2010,0.17801
+08421,"Ulm, Stadtkreis",2011,0.20104
+08421,"Ulm, Stadtkreis",2012,0.21871
+08421,"Ulm, Stadtkreis",2013,0.28535
+08421,"Ulm, Stadtkreis",2014,0.18594
+08421,"Ulm, Stadtkreis",2015,0.29558
+08421,"Ulm, Stadtkreis",2016,0.24126
+08421,"Ulm, Stadtkreis",2017,0.18236
+08421,"Ulm, Stadtkreis",2018,0.24006
+08421,"Ulm, Stadtkreis",2019,0.19942
+08421,"Ulm, Stadtkreis",2020,0.21334
+08421,"Ulm, Stadtkreis",2021,0.23804
+08425,Alb-Donau-Kreis,1998,0.30327
+08425,Alb-Donau-Kreis,1999,0.32203
+08425,Alb-Donau-Kreis,2000,0.36181
+08425,Alb-Donau-Kreis,2001,0.34831
+08425,Alb-Donau-Kreis,2002,0.38919
+08425,Alb-Donau-Kreis,2003,0.3959
+08425,Alb-Donau-Kreis,2004,0.36831
+08425,Alb-Donau-Kreis,2005,0.31741
+08425,Alb-Donau-Kreis,2006,0.37209
+08425,Alb-Donau-Kreis,2007,0.40138
+08425,Alb-Donau-Kreis,2008,0.42187
+08425,Alb-Donau-Kreis,2009,0.42457
+08425,Alb-Donau-Kreis,2010,0.36216
+08425,Alb-Donau-Kreis,2011,0.34793
+08425,Alb-Donau-Kreis,2012,0.4414
+08425,Alb-Donau-Kreis,2013,0.48589
+08425,Alb-Donau-Kreis,2014,0.44599
+08425,Alb-Donau-Kreis,2015,0.42518
+08425,Alb-Donau-Kreis,2016,0.44176
+08425,Alb-Donau-Kreis,2017,0.38561
+08425,Alb-Donau-Kreis,2018,0.41698
+08425,Alb-Donau-Kreis,2019,0.39271
+08425,Alb-Donau-Kreis,2020,0.40109
+08425,Alb-Donau-Kreis,2021,0.42907
+08426,Biberach,1998,0.2409
+08426,Biberach,1999,0.2243
+08426,Biberach,2000,0.42764
+08426,Biberach,2001,0.41326
+08426,Biberach,2002,0.44717
+08426,Biberach,2003,0.40674
+08426,Biberach,2004,0.3978
+08426,Biberach,2005,0.36271
+08426,Biberach,2006,0.38537
+08426,Biberach,2007,0.39718
+08426,Biberach,2008,0.32293
+08426,Biberach,2009,0.36194
+08426,Biberach,2010,0.3517
+08426,Biberach,2011,0.33641
+08426,Biberach,2012,0.35084
+08426,Biberach,2013,0.42028
+08426,Biberach,2014,0.37549
+08426,Biberach,2015,0.36289
+08426,Biberach,2016,0.3534
+08426,Biberach,2017,0.31038
+08426,Biberach,2018,0.37446
+08426,Biberach,2019,0.34611
+08426,Biberach,2020,0.34472
+08426,Biberach,2021,0.32337
+08435,Bodenseekreis,1998,0.11575
+08435,Bodenseekreis,1999,0.07718
+08435,Bodenseekreis,2000,0.28918
+08435,Bodenseekreis,2001,0.26149
+08435,Bodenseekreis,2002,0.23998
+08435,Bodenseekreis,2003,0.22255
+08435,Bodenseekreis,2004,0.19521
+08435,Bodenseekreis,2005,0.17512
+08435,Bodenseekreis,2006,0.18774
+08435,Bodenseekreis,2007,0.20043
+08435,Bodenseekreis,2008,0.17368
+08435,Bodenseekreis,2009,0.18864
+08435,Bodenseekreis,2010,0.16192
+08435,Bodenseekreis,2011,0.13024
+08435,Bodenseekreis,2012,0.21908
+08435,Bodenseekreis,2013,0.26218
+08435,Bodenseekreis,2014,0.18314
+08435,Bodenseekreis,2015,0.19908
+08435,Bodenseekreis,2016,0.195
+08435,Bodenseekreis,2017,0.18535
+08435,Bodenseekreis,2018,0.21685
+08435,Bodenseekreis,2019,0.17244
+08435,Bodenseekreis,2020,0.23474
+08435,Bodenseekreis,2021,0.21862
+08436,Ravensburg,1998,0.39031
+08436,Ravensburg,1999,0.40708
+08436,Ravensburg,2000,0.52388
+08436,Ravensburg,2001,0.51346
+08436,Ravensburg,2002,0.55387
+08436,Ravensburg,2003,0.53058
+08436,Ravensburg,2004,0.53077
+08436,Ravensburg,2005,0.44049
+08436,Ravensburg,2006,0.47857
+08436,Ravensburg,2007,0.49618
+08436,Ravensburg,2008,0.48167
+08436,Ravensburg,2009,0.50767
+08436,Ravensburg,2010,0.45327
+08436,Ravensburg,2011,0.44655
+08436,Ravensburg,2012,0.5216
+08436,Ravensburg,2013,0.54252
+08436,Ravensburg,2014,0.50694
+08436,Ravensburg,2015,0.56442
+08436,Ravensburg,2016,0.45193
+08436,Ravensburg,2017,0.43851
+08436,Ravensburg,2018,0.47291
+08436,Ravensburg,2019,0.44093
+08436,Ravensburg,2020,0.41531
+08436,Ravensburg,2021,0.41255
+08437,Sigmaringen,1998,0.74858
+08437,Sigmaringen,1999,0.76658
+08437,Sigmaringen,2000,0.8948
+08437,Sigmaringen,2001,0.91691
+08437,Sigmaringen,2002,1
+08437,Sigmaringen,2003,0.91249
+08437,Sigmaringen,2004,0.98331
+08437,Sigmaringen,2005,0.9523
+08437,Sigmaringen,2006,0.91527
+08437,Sigmaringen,2007,0.88552
+08437,Sigmaringen,2008,0.84331
+08437,Sigmaringen,2009,0.85576
+08437,Sigmaringen,2010,0.8169
+08437,Sigmaringen,2011,0.79599
+08437,Sigmaringen,2012,0.79235
+08437,Sigmaringen,2013,0.80199
+08437,Sigmaringen,2014,0.78728
+08437,Sigmaringen,2015,0.75109
+08437,Sigmaringen,2016,0.73125
+08437,Sigmaringen,2017,0.69864
+08437,Sigmaringen,2018,0.70984
+08437,Sigmaringen,2019,0.66233
+08437,Sigmaringen,2020,0.63927
+08437,Sigmaringen,2021,0.62799
