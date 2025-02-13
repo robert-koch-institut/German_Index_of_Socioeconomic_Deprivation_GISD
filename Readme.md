@@ -168,7 +168,7 @@ Die GISD-Daten enthalten die in der folgenden Tabelle abgebildeten Variablen und
 |gisd_10 |Natürliche Zahl |`1`,`2`,`3`,`4`,`5`, `6`,`7`,`8`,`9`,`10`  |Zugewiesenes GISD-Dezil der Raumeinheit gemäß der jährlichen Verteilung auf der jeweiligen räumlichen Ebene |
 |gisd_k  |Natürliche Zahl |`1`,`2`,`3` |1 unterstes Quintil, 2 drei mittlere Qunitile, 3 oberstes Qunitil |  |
 |gemeinde_name, gvb_name, kreis_name, nuts2_name, ror_name | String |`Flensburg, Stadt`,`Kiel, Landeshauptstadt`, ..., `Windischleuba` | Name der Raumeinheit |
-|Jahr  |Natürliche Zahl |`1998` bis `2019` | Beobachtungsjahr |  |
+|year  |Natürliche Zahl |`1998` bis `2019` | Beobachtungsjahr |  |
 
 
 ### Formatierung der Daten
