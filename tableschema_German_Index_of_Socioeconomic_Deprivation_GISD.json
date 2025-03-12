@@ -1,0 +1,55 @@
+{
+  "fields": [
+    {
+      "name": "region_type",
+      "type": "string",
+      "description": "Regionale Ebene der Raumeinheit"
+    },
+    {
+      "name": "region_id",
+      "type": "string",
+      "description": "ID der regionalen Einheit basierend auf dem amtlichen Regionalschlüssel für Gemeinden, Gemeindeverbände , Stadt- und Landkreise, NUTS-2, Raumordnungsregion sowie Postleitzahl 2-, 3-, 4-, 5-Steller"
+    },
+    {
+      "name": "region_name",
+      "type": "string",
+      "description": "Name der Raumeinheit"
+    },
+    {
+      "name": "year",
+      "type": "date",
+      "format": "YYYY",
+      "description": "Beobachtungsjahr"
+    },
+    {
+      "name": "gisd_score",
+      "type": "number",
+      "description": "Berechneter Score Sozioökonomischer Deprivation für die jeweilige Raumheinheit"
+    },
+    {
+      "name": "gisd_5",
+      "type": "integer",
+      "description": "Zugewiesenes GISD-Quintil der Raumeinheit gemäß der jährlichen Verteilung auf der jeweiligen räumlichen Ebene"
+    },
+    {
+      "name": "gisd_10",
+      "type": "integer",
+      "description": "Zugewiesenes GISD-Dezil der Raumeinheit gemäß der jährlichen Verteilung auf der jeweiligen räumlichen Ebene"
+    },
+    {
+      "name": "gisd_k",
+      "type": "integer",
+      "description": "1 unterstes Quintil, 2 drei mittlere Qunitile, 3 oberstes Qunitil"
+    },
+    {
+      "name": "population",
+      "type": "integer",
+      "description": "Durch die Raumeinheit abgedeckte Bevölkerungszahl"
+    },
+    {
+      "name": "Bundesland",
+      "type": "string",
+      "description": "Zur Raumeinheit zugehöriges Bundesland"
+    }
+  ]
+}
