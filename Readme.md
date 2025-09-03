@@ -1,21 +1,48 @@
-Datensatzdokumentation
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # German Index of Socioeconomic Deprivation (GISD)
 
+<br> 
+<br> 
+<br> 
 
-[Robert Koch-Institut](https://grid.ac/institutes/grid.13652.33) | RKI  
-Nordufer 20  
-13353 Berlin  
+[**Niels Michalski**](https://orcid.org/0000-0002-5943-1361)&sup1;, [**Lola Omar Soliman**](https://orcid.org/0009-0001-6956-0132)&sup1;, [**Marvin Reis**](https://orcid.org/0000-0003-4551-5203)&sup1;, [**Fabian Tetzlaff**](https://orcid.org/0000-0001-6933-4162)&sup1;, [**Enno Nowossadeck**](https://orcid.org/0000-0002-8534-0463)&sup1;, & [**Jens Hoebel**](https://orcid.org/0000-0002-6623-1579)&sup1;
+
+<br> 
 
 
-[Niels Michalski](https://orcid.org/0000-0002-5943-1361)&sup1;, [Lola Omar Soliman](https://orcid.org/0009-0001-6956-0132)&sup1;, [Marvin Reis](https://orcid.org/0000-0003-4551-5203)&sup1;, [Fabian Tetzlaff](https://orcid.org/0000-0001-6933-4162)&sup1;, [Enno Nowossadeck](https://orcid.org/0000-0002-8534-0463)&sup1; und [Jens Hoebel](https://orcid.org/0000-0002-6623-1579)&sup1; (Projektleitung)
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | FG 28 Soziale Determinanten der Gesundheit](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG28/fg28-soziale-determinanten-der-gesundheit-node.html)
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 28](https://www.rki.de/fg28)
 
----
+<br> 
+
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
 Michalski, N., Soliman, L., Reis, M., Tetzlaff, F., Nowossadeck, E., & Hoebel, J. (2025). German Index of Socioeconomic Deprivation (GISD) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14781119](https://doi.org/10.5281/zenodo.14781119)
-<!-- CITATION_END -->
+
+<br>
+
+
+**Zusammenfassung**    
+Der "German Index of Socioeconomic Deprivation (GISD)", entwickelt am Robert Koch-Institut, bietet eine umfassende Messgröße für die regionalen sozioökonomischen Ungleichheiten in der Gesundheit in Deutschland. Der Index berücksichtigt drei wesentliche Dimensionen: Bildung, Beschäftigung und Einkommen. Hierbei werden Indikatoren herangezogen, die in enger Beziehung zum sozioökonomischen Status (SES) auf individueller Ebene stehen. Die verwendeten Daten stammen aus öffentlich zugänglichen Quellen, vor allem aus der INKAR-Datenbank des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR). Zur Berechnung des Indexwerts kommen Hauptkomponentenanalyse und Faktor-Scoring-Verfahren zum Einsatz, um ein differenziertes Bild der regionalen sozioökonomischen Lage zu erhalten. Die GISD-Daten werden auf verschiedenen regionalen Ebenen, von Gemeinden bis zu NUTS-2-Regionen, aggregiert und für den Zeitraum von 1998 bis 2021 bereitgestellt. Als ein bedeutendes Instrument in der epidemiologischen Forschung und Gesundheitsberichterstattung ermöglicht der GISD eine fundierte Analyse der sozialen Ungleichheit und ihrer Auswirkungen auf die Gesundheit in Deutschland.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Forschungskontext](#informationen-zum-forschungskontext)
+  - [Zielkriterien und Datengrundlage](#zielkriterien-und-datengrundlage)
+  - [Datenaufbereitung](#datenaufbereitung)
+  - [Datenbereitstellung](#datenbereitstellung)
+  - [Updates und Bugfixes](#updates-und-bugfixes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
 
 
 ## Informationen zum Forschungskontext
@@ -39,7 +66,7 @@ Die Begleitpublikation zur Ursprungsversion des GISD findet sich hier:
 Der "German Index of Socioeconomic Deprivation (GISD)" dient im Rahmen der epidemiologischen Forschung und Gesundheitsberichterstattung am Robert Koch-Institut zur Bearbeitung der Themenschwerpunkte [regionale Unterschiede in der Gesundheit](https://www.rki.de/DE/Themen/Gesundheit-und-Gesellschaft/Gesundheitliche-Einflussfaktoren-A-Z/R/Regionale-Unterschiede/Regionale_Unterschiede_inhalt.html) und [soziale Ungleichheit der Gesundheitschancen und Erkrankungsrisiken](https://www.rki.de/DE/Themen/Gesundheit-und-Gesellschaft/Sozialer-Status/Sozialer_Status_Ungleichheit_inhalt.html).  
 Die Federführung der Entwicklung, Betreuung und Primäranwendung liegt im [Fachgebiet 28 | Sozialen Determinanten der Gesundheit](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG28/fg28_org.html). Autoren des aktuellen Datensatzes sind [Niels Michalski](https://orcid.org/0000-0002-5943-1361) und [Lola Omar Soliman](https://orcid.org/0009-0001-6956-0132). Die Projektleitung liegt bei [Jens Hoebel](https://orcid.org/0000-0002-6623-1579). Die [Ursprungsversion des GISD](https://doi.org/10.7802/1460)  wurde von [Lars E. Kroll](https://www.zi.de/das-zi/das-institut-auf-einen-blick/mitarbeitende/detailansicht/lars-e-kroll) erstellt. Aktualisierungen und Revisionen des GISD erscheinen in regelmäßigen Abständen. Fragen zur Generierung und Verwendung des GISD können an [GISD@rki.de](mailto:GISD@rki.de) gerichtet werden.   
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
 
 ## Zielkriterien und Datengrundlage
 
@@ -137,7 +164,7 @@ Zu beachten ist, dass die jahresweise Normierung der Scores Folgen für die Inte
 
 ## Datenbereitstellung
 
-Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht der Version [GISD Release 2025 v1.0](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/GISD_Release_aktuell). Frühere Versionen finden sich im [Archiv](Archiv/).
+Im Repositorium werden die GISD-Daten bestehend aus den GISD-Scores für die jeweiligen regionalen Ebenen und Jahre bereitgestellt. Im Ordner "Bund" befinden sich die GISD-Daten mit Bezugsrahmen Bundesebene. Im Ordner "Bundesland" sind die GISD-Daten bezogen auf die jeweiligen Bundesländer mit Ausnahme der Stadtstaaten Bremen, Hamburg und Berlin abgelegt. Innerhalb der Stadtstaaten kann bisher nicht regional differenziert werden. Das aktuelle Release entspricht der Version [GISD Release 2025 v1.0](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/GISD_Release_aktuell). Frühere Versionen finden sich im [Archiv](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/Archiv/).
 
 > [GISD_Release_aktuell/Bund](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bund/)  
 > [GISD_Release_aktuell/Bundesland](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/Bundesland/)  
@@ -271,19 +298,6 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
   ],
 ```    
 
-
-Zusätzlich beschreiben wir tabellarische Daten mithilfe des [Data Package Standards](https://datapackage.org/).
-Ein Data Package ist eine strukturierte Sammlung von Daten und zugehörigen Metadaten, die den Austausch und die Wiederverwendung von Daten erleichtert. Es besteht aus einer datapackage.json-Datei, die zentrale Informationen wie die enthaltenen Ressourcen, ihre Formate und Schema-Definitionen beschreibt.
-
-Der Data Package Standard wird von der [Open Knowledge Foundation](https://okfn.org/) bereitgestellt und ist ein offenes Format, das eine einfache, maschinenlesbare Beschreibung von Datensätzen ermöglicht.
-
-Die Liste der in diesem Repository enthaltenen Daten ist in folgender Datei hinterlegt:
-
-> [datapackage.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/datapackage.json)
-
-Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://datapackage.org/standard/table-schema/), das die Struktur der Tabellen beschreibt, einschließlich Spaltennamen, Datentypen und Validierungsregeln. Diese Schema-Dateien finden sich unter:
-
-> [Metadaten/schemas/](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/Metadaten/schemas) 
 
 
 
