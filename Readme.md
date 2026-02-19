@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # German Index of Socioeconomic Deprivation (GISD)
 
 <br> 
@@ -19,24 +20,27 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->
 Michalski, N., Soliman, L., Reis, M., Tetzlaff, F., Nowossadeck, E., & Hoebel, J. (2025). German Index of Socioeconomic Deprivation (GISD) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14781119](https://doi.org/10.5281/zenodo.14781119)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Der "German Index of Socioeconomic Deprivation (GISD)", entwickelt am Robert Koch-Institut, bietet eine umfassende Messgröße für die regionalen sozioökonomischen Ungleichheiten in der Gesundheit in Deutschland. Der Index berücksichtigt drei wesentliche Dimensionen: Bildung, Beschäftigung und Einkommen. Hierbei werden Indikatoren herangezogen, die in enger Beziehung zum sozioökonomischen Status (SES) auf individueller Ebene stehen. Die verwendeten Daten stammen aus öffentlich zugänglichen Quellen, vor allem aus der INKAR-Datenbank des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR). Zur Berechnung des Indexwerts kommen Hauptkomponentenanalyse und Faktor-Scoring-Verfahren zum Einsatz, um ein differenziertes Bild der regionalen sozioökonomischen Lage zu erhalten. Die GISD-Daten werden auf verschiedenen regionalen Ebenen, von Gemeinden bis zu NUTS-2-Regionen, aggregiert und für den Zeitraum von 1998 bis 2021 bereitgestellt. Als ein bedeutendes Instrument in der epidemiologischen Forschung und Gesundheitsberichterstattung ermöglicht der GISD eine fundierte Analyse der sozialen Ungleichheit und ihrer Auswirkungen auf die Gesundheit in Deutschland.
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Forschungskontext](#informationen-zum-forschungskontext)
-  - [Zielkriterien und Datengrundlage](#zielkriterien-und-datengrundlage)
-  - [Datenaufbereitung](#datenaufbereitung)
-  - [Datenbereitstellung](#datenbereitstellung)
-  - [Updates und Bugfixes](#updates-und-bugfixes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Forschungskontext](#informationen-zum-forschungskontext)  
+  - [Zielkriterien und Datengrundlage](#zielkriterien-und-datengrundlage)  
+  - [Datenaufbereitung](#datenaufbereitung)  
+  - [Datenbereitstellung](#datenbereitstellung)  
+  - [Updates und Bugfixes](#updates-und-bugfixes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -219,27 +223,6 @@ Im Repositorium werden außerdem frühere Versionen (Releases) für Replikations
 
 > [Archiv](Archiv/)  
 
-### Metadaten
-
-Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadaten-Ordner hinterlegt:
-
-> [Metadaten/](/Metadaten/) 
-
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](http://Zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
-
-> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json)  
-
-In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch der Datenstand enthalten:
-```
-  "dates": [
-    {
-      "start": "2023-09-11T15:00:21+02:00",
-      "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
-    }
-  ],
-``` 
 
 ## Updates und Bugfixes
 
@@ -273,15 +256,13 @@ Ergänzung in der Version vom 26.5.2023:
 
 <!-- FOOTER_START: {"lang": "de"} -->
 
-
-
 ### Metadaten  
 
 Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
 > [Metadaten/](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Metadaten/zenodo.json)  
 
@@ -292,8 +273,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -305,11 +286,13 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "German Index of Socioeconomic Deprivation (GISD)" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
