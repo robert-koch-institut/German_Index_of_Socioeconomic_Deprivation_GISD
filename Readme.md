@@ -120,13 +120,13 @@ Der Index greift im Wesentlichen auf die Indikatoren zurück, deren Auswahl in e
 *GVB = Gemeindeverbände und verbandsfreie Gemeinden*  
 *SV = sozialversicherungspflichtig*  
   
-\*Datenquelle: Für die Anteile der sozialversicherungspflichtig Beschäftigten ohne Abschluss und mit akademischem Abschluss wurden die Daten für die Jahre 2001 bis 2011 direkt über die [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/) bezogen. Alle weiteren Daten wurden von [INKAR](https://www.inkar.de/) bezogen.  
+*\*Datenquelle: Für die Anteile der sozialversicherungspflichtig Beschäftigten ohne Abschluss und mit akademischem Abschluss wurden die Daten für die Jahre 2001 bis 2011 direkt über die [Statistik der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/) bezogen. Alle weiteren Daten wurden von [INKAR](https://www.inkar.de/) bezogen.*  
 
-\*\*Für die Beschäftigtenquote standen Werte für die Gemeindeebene erst ab 2001 zur Verfügung. Für die Jahre 1998 bis 2000 wurden den Gemeinden die Werte der Kreisebene zugeordnet.  
+*\*\*Für die Beschäftigtenquote standen Werte für die Gemeindeebene erst ab 2001 zur Verfügung. Für die Jahre 1998 bis 2000 wurden den Gemeinden die Werte der Kreisebene zugeordnet.*  
 
-> [Bundesinstitut für Bau-, Stadt- und Raumforschung: Laufende Raumbeobachtung des BBSR](https://www.inkar.de/)  
+> *[Bundesinstitut für Bau-, Stadt- und Raumforschung: Laufende Raumbeobachtung des BBSR](https://www.inkar.de/)*  
 
-> [Statistik der Bundesagentur für Arbeit (2022) Tabellen, Beschäftigte nach Berufen (KldB 2010) (Quartalszahlen), Nürnberg.](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Fachstatistiken-Nav.html)  
+> *[Statistik der Bundesagentur für Arbeit (2022) Tabellen, Beschäftigte nach Berufen (KldB 2010) (Quartalszahlen), Nürnberg.](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Fachstatistiken-Nav.html)*  
 
 
 
@@ -171,7 +171,7 @@ Zu beachten ist, dass die jahresweise Normierung der Scores Folgen für die Inte
 
 ## Datenbereitstellung
 
-Mit dem aktuellen GISD release 2026 v0.1 wurde die Datenbereitstellung im Repositoirum geändert. 
+Mit dem aktuellen GISD release 2026 v0.1 wurde die Datenbereitstellung im Repositorium geändert. 
 Die Daten werden im ".tsv"- und ".xlsx"-Format bereitgestellt. 
 Die Datei [00_GISD_Bund.xlsx](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Release_aktuell/00_GISD_Bund.xlsx) enthält die GISD-Scores für die regionalen Einheiten bezogen auf das gesamte Bundesgebiet. Die jeweilige regionale Ebene kann über die Mappen (bzw. Sheets) der .xlsx-Datei gewählt werden. Analog dazu enhält die Datei [GISD_Bund.tsv](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/GISD_Bund.tsv) die GISD-Scores für alle regionalen Einheiten bezogen auf das gesamte Bundesgebiet. Die Variable region_type gibt die regionale Ebene wieder und muss als Filter verwendet werden. 
 
