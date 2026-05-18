@@ -1,6 +1,15 @@
 {
   "title": "German Index of Socioeconomic Deprivation (GISD)",
-  "description": "<p>Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Mit dem GISD wird es möglich, sozioökonomische Unterschiede in den Gesundheitschancen, Krankheits- und Sterberisiken in Deutschland auch dann zu untersuchen, wenn die betreffenden Gesundheitsdaten auf individueller Ebene keine Information zum sozioökonomischen Status enthalten. Für die Generierung des GISD werden Information der Bildungs-, Beschäftigungs- und Einkommenssituation in Kreisen und Gemeinden aus der Datenbank INKAR verwendet. Er wird auf der Ebene der Gemeinden generiert und wird für die Raumbezüge Gemeinden, Gemeindeverbände, Stadt- und Landkreise, Raumordnungsregionen, NUTS-2 und Postleitzahlbereiche bevölkerungsgewichtet aggregiert bereitgestellt. Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen innerhalb der Teildimensionen vorgenommen. Die aktuell verfügbaren Daten beziehen sich auf den Gebietsstand 31.12.2019 und enthalten Werte von 1998 bis 2019.</p>\n",
+  "description": "<p>Der German Index of Socioeconomic Deprivation (GISD) ist ein am Robert Koch-Institut entwickelter Index zur Erfassung regionaler sozioökonomischer Benachteiligung. Er wird verwendet, um regionale sozioökonomische Ungleichheiten in der Gesundheit sichtbar zu machen und Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen zu können. Zur Generierung des GISD werden Indikatoren zur Verteilung von Bildung, Beschäftigung und Einkommen auf Kreis- und Gemeindeebene aus der INKAR-Datenbank verwendet. Die verwendeten Daten stammen aus öffentlich zugänglichen Quellen, vor allem aus der INKAR-Datenbank des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR). Die Gewichtung der Indikatoren wird über Hauptkomponentenanalysen und einem Faktor-Scoring innerhalb der Teildimensionen vorgenommen. Die GISD-Daten werden auf verschiedenen regionalen Ebenen, von Gemeinden bis zu NUTS-2-Regionen bezogen auf den Gebietsstand 31.12.2023, aggregiert und für den Zeitraum von 1998 bis 2023 bereitgestellt. Als ein bedeutendes Instrument in der epidemiologischen Forschung und Gesundheitsberichterstattung ermöglicht der GISD eine fundierte Analyse der sozialen Ungleichheit und ihrer Auswirkungen auf die Gesundheit in Deutschland.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "creators": [
     {
       "name": "Michalski, Niels",
@@ -54,57 +63,31 @@
     "Germany",
     "Deutschland",
     "Public Health",
-    "RKI"
+    "RKI",
+    "Gesundheitsberichterstattung",
+    "Public health surveillance"
   ],
-  "publication_date": "2025-01-31",
-  "version": "2021-12-31",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "CC-BY-4.0",
-  "language": "deu",
-  "communities": [
+  "subjects": [],
+  "publication_date": "2026-05-18",
+  "version": "2026-05-18",
+  "related_identifiers": [
     {
-      "identifier": "robertkochinstitut"
-    }
-  ],
-  "subjects": [
-    {
-      "term": "Gesundheitsberichterstattung",
-      "identifier": "info:ddc/22/de//614.42"
+      "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
     },
     {
-      "term": "Public health surveillance",
-      "identifier": "info:ddc/22/eng//614.42"
+      "identifier": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
     }
   ],
   "dates": [
     {
-      "start": "2021-12-31T23:59:59+01:00",
-      "end": "2021-12-31T23:59:59+01:00",
+      "start": "2026-05-18T23:24:41+02:00",
+      "end": "2026-05-18T23:24:41+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
-    }
-  ],
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD",
-      "resource_type": "dataset"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Readme.md",
-      "resource_type": "publication-report"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/[Dokumentation]_German_Index_of_Socioeconomic_Deprivation_GISD.pdf",
-      "resource_type": "publication-report"
-    },
-    {
-      "relation": "isDescribedBy",
-      "identifier": "https://robert-koch-institut.github.io/German_Index_of_Socioeconomic_Deprivation_GISD/",
-      "resource_type": "other"
     }
   ]
 }
