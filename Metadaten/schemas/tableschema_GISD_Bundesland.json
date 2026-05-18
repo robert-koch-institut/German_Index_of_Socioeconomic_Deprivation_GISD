@@ -1,0 +1,85 @@
+{
+  "fields": [
+    {
+      "name": "federal_state",
+      "type": "string",
+      "description": "Das Bundesland, das den Bezugsrahmen für den GISD Score bildet, für die Analyse muss der Datensatz auf ein Bundesland eingeschränkt werden",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "enum": [
+          "Baden-Wuerttemberg",
+          "Bayern",
+          "Brandenburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thueringen"
+        ]
+      }
+    },
+    {
+      "name": "region_type",
+      "type": "string",
+      "description": "Regionale Ebene, für die Analyse muss der Datensatz auf die jeweilige Analyseebene eingeschränkt werden, Details dazu im Abschnitt [Regionale Ebenen](https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD/blob/main/Readme.md#regionale-ebenen)",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "enum": [
+          "Gemeindeverband",
+          "Kreis"
+        ]
+      }
+    },
+    {
+      "name": "region_id",
+      "type": "string",
+      "description": "ID der regionalen Einheit basierend auf dem amtlichen Regionalschlüssel für Gemeinden, Gemeindeverbände, Stadt- und Landkreise, NUTS-2, Raumordnungsregion sowie Postleitzahl 2-, 3-, 4-, 5-Steller",
+      "missingValues": [
+        ""
+      ],
+      "example": "14523130"
+    },
+    {
+      "name": "region_name",
+      "type": "string",
+      "description": "Name der Raumeinheit",
+      "missingValues": [
+        ""
+      ],
+      "example": "15566, Oberbergischer Kreis, VVG der Stadt Gerabronn"
+    },
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Beobachtungsjahr",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 1998,
+        "maximum": 2023
+      }
+    },
+    {
+      "name": "gisd_score",
+      "type": "number",
+      "description": "Score sozioökonomischer Deprivation für die jeweilige Raumheinheit auf der jeweiligen regionalen Ebene min-max-normalisiert für das Bundesland",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      }
+    }
+  ]
+}
