@@ -3,7 +3,7 @@
 # Citation: https://github.com/robert-koch-institut/German_Index_of_Socioeconomic_Deprivation_GISD
 
 # Revision: 2026_v01
-# Date: 2026-05-18
+# Date: 2026-05-19
 
 # 0. Setup =====================================================================
 
@@ -1071,7 +1071,7 @@ rm(i, ebene, id_var, name_var, plz_ebene,
 write_tsv(bind_rows(exports_bund), paste0(dir_output_tsv,"GISD_Bund.tsv"))
 write_tsv(bind_rows(exports_bl),   paste0(dir_output_tsv,"GISD_Bundesland.tsv"))
 
-write_xlsx(exports_bund, paste0(dir_output_xlsx,"00_Bund.xlsx"))
+write_xlsx(exports_bund, paste0(dir_output_xlsx,"00_GISD_Bund.xlsx"))
 
 # Excel-Output in Bundesländer aufgetrennt (ohne Stadtstaaten)
 bl_codes <- Results_export %>% 
@@ -1087,7 +1087,7 @@ for (bl_name in names(bl_codes)) {
     Kreise =    exports_bl[["Kreis"]]    %>% filter(federal_state == bl_name) %>% select(-region_type, -federal_state)
   )
   
-  write_xlsx(export_bl_i, paste0(dir_output_xlsx, bl_id,"_", bl_name,".xlsx"))
+  write_xlsx(export_bl_i, paste0(dir_output_xlsx, bl_id,"_GISD_", bl_name,".xlsx"))
 }
 
 rm(bl_codes, bl_name, bl_id, export_bl_i)
