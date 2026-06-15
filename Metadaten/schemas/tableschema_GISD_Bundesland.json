@@ -34,6 +34,7 @@
       ],
       "constraints": {
         "enum": [
+          "Gemeinde",
           "Gemeindeverband",
           "Kreis"
         ]
@@ -79,6 +80,42 @@
       "constraints": {
         "minimum": 0,
         "maximum": 1
+      }
+    },
+    {
+      "name": "gisd_5",
+      "type": "integer",
+      "description": "Zugewiesenes GISD-Quintil der Raumeinheit gemäß der jährlichen Verteilung auf der jeweiligen räumlichen Ebene",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 1,
+        "maximum": 5
+      }
+    },
+    {
+      "name": "gisd_10",
+      "type": "integer",
+      "description": "Zugewiesenes GISD-Dezil der Raumeinheit gemäß der jährlichen Verteilung auf der jeweiligen räumlichen Ebene",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 1,
+        "maximum": 10
+      }
+    },
+    {
+      "name": "gisd_k",
+      "type": "integer",
+      "description": "´1´: unterstes Quintil, ´2´: drei mittlere Quintil, ´3´: oberstes Quintil",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 1,
+        "maximum": 3
       }
     }
   ]

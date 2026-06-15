@@ -13,10 +13,10 @@
           "Gemeindeverband",
           "Kreis",
           "NUTS2",
-          "PLZ2",
-          "PLZ3",
-          "PLZ4",
-          "PLZ5",
+          "PLZ_2",
+          "PLZ_3",
+          "PLZ_4",
+          "PLZ_5",
           "Raumordnungsregion"
         ]
       }
@@ -90,7 +90,7 @@
     {
       "name": "gisd_k",
       "type": "integer",
-      "description": "1 unterstes Quintil, 2 drei mittlere Quintil, 3 oberstes Quintil",
+      "description": "´1´: unterstes Quintil, ´2´: drei mittlere Quintil, ´3´: oberstes Quintil",
       "missingValues": [
         ""
       ],
